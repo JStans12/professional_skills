@@ -33,4 +33,8 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 * Building Emotional Self-Awareness
 * 
 
+## Working in Teams & Leadership Skills
+* [Define the Relationship (DTR)](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
+* Team Building
+
 
