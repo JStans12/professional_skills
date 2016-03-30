@@ -26,15 +26,29 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 * Email
 
 ## Time Management & Organizational Resources
-* [Todoist](https://todoist.com): Provides 
+* [Todoist](https://todoist.com): This site provides  
+* [Google Calendar]
+* [Trello]
+* [Waffle.io]
 * 
 
-## Stress Management
+## Stress Management & Personal Development
+* Assertiveness & Self Confidence
+* Building Self-Awareness
 * Building Emotional Self-Awareness
-* 
 
 ## Working in Teams & Leadership Skills
 * [Define the Relationship (DTR)](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
 * Team Building
+* Project Management
+* Remote Teams
+* Mentoring
+* 
+
+## Creativity & Career Exploration
+* Innovation
+* Developing Interests
+* Side Projects
+* 
 
 
