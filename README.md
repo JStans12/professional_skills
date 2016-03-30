@@ -30,7 +30,7 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 * 
 
 ## Stress Management
-* Emotional Agility
+* Building Emotional Self-Awareness
 * 
 
 
