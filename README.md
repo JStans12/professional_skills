@@ -20,6 +20,8 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 * Listening
 * Presentation & Public Speaking Skills
 * Technical Blogging
+*   List of Tech. Blogs for reference
+*  
 
 ## Communication Management
 * [Slack](https://docs.google.com/document/d/1OChnYx0ViErOKgNzE6C0hDD9tC9xX683f_dlM_4WYkA/edit?usp=sharing)
