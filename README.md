@@ -33,6 +33,7 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 * [Trello]
 * [Waffle.io]
 * [Workflowy](https://workflowy.com): This site provides 
+![](file:///Users/allisonreusinger/Desktop/Workflowy.png)
 
 ## Stress Management & Personal Development
 * Assertiveness & Self Confidence
