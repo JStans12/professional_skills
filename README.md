@@ -30,7 +30,8 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 ## Time Management & Organizational Resources
 * [Todoist](https://todoist.com): This site provides  
 * [Google Calendar]
-* [Trello]
+* [Trello](trello.com)
+![Trello doc](
 * [Waffle.io](waffle.io)
 ![Waffle doc](images/Waffle.io.png)
 * [Workflowy](https://workflowy.com): This site provides 
