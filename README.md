@@ -31,7 +31,8 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 * [Todoist](https://todoist.com): This site provides  
 * [Google Calendar]
 * [Trello]
-* [Waffle.io]
+* [Waffle.io](waffle.io)
+![Waffle doc](
 * [Workflowy](https://workflowy.com): This site provides 
 ![Workflowy doc](images/Workflowy.png)
 
