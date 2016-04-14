@@ -32,7 +32,7 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 * [Google Calendar]
 * [Trello]
 * [Waffle.io](waffle.io)
-![Waffle doc](images/Waffl.io.png)
+![Waffle doc](images/Waffle.io.png)
 * [Workflowy](https://workflowy.com): This site provides 
 ![Workflowy doc](images/Workflowy.png)
 
