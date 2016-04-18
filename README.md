@@ -56,6 +56,7 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 * Innovation
 * Developing Interests
 * Side Projects
-* 
+* Resource:
+     * [TED Talk: Adam Grant, The Surprising Habits of Original Thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers?language=en)
 
 
