@@ -2,9 +2,9 @@
 
 ## Overview of Soft Skills Instruction at Turing
 Soft Skills instruction at Turing is a three-fold focus:
-  * Pre-Turing: Before students begin at Turing, they are given 
-  * During Turing (Mods. 1-3):
-  * Preparing for Post-Turing (Mod. 4): 
+  * Pre-Turing: Before students begin at Turing, they are given a survey to self-assess their soft skills. The Communiy Affairs Manager (Allison) will use this information to create initial plans for students. 
+  * During Turing (Mods. 1-3): Allison will meet with students during a module to continue development on soft skills, either in small groups or in 1-on-1 meetings. 
+  * Preparing for Post-Turing (Mod. 4): In Module 4, students will meet with the Professional Development Coordinator (Marissa) and the Partnerships Manager (Lia) to discuss and create strategies for the search for jobs in the software industry. 
   
 Below is a listing of areas of soft skills along with links to relevant tools and lesson plans.
 
