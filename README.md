@@ -52,11 +52,12 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 * Mentoring
 * 
 
-## Creativity & Career Exploration
+## Creativity
 * Innovation
 * Developing Interests
 * Side Projects
 * Resource:
      * [TED Talk: Adam Grant, The Surprising Habits of Original Thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers?language=en)
 
-
+## Career Exploration
+* [Telling Your Story](https://docs.google.com/document/d/1ux3j3Cp6PZq1EzFH9jy8PbQiXn3N32W7EMAyqRVkVu4/edit?usp=sharing)
