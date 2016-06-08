@@ -10,7 +10,7 @@ See more on our approach to soft skills curriculum [here](https://docs.google.co
 
 Below is a listing of soft skills areas along with links to relevant tools and lesson plans:
 
-## Resources for Identifying Your Strengths & Areas of Improvement (for building self-awareness):
+## Resources for Identifying Your Strengths & Areas of Improvement:
 * [Guidelines for signing up for StrengthsFinder]
 * [StrengthsFinder Themes: Adapted for Professional Developers](https://docs.google.com/document/d/1D4AE3y8yVXx5PI7wtPcbdTEz-IbXl6CJm_EZAwkTHew/edit?usp=sharing)
 
