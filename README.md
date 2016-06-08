@@ -6,11 +6,11 @@ Soft Skills instruction at Turing is a three-fold focus:
   * During Turing (Mods. 1-3): Allison will meet with students during each module to continue development on soft skills, either in small groups or in 1-on-1 meetings. Cohort-specific sessions called Protocol will be taught 
   * Preparing for Post-Turing (Mod. 4): In Module 4, students will meet with the Professional Development Coordinator (Marissa) and the Partnerships Manager (Lia) to discuss and create strategies for the search for jobs in the software industry. 
   
-Below is a listing of areas of soft skills along with links to relevant tools and lesson plans.
+Below is a listing of soft skills areas along with links to relevant tools and lesson plans:
 
-## Resources for Identifying Your Strengths & Areas of Improvement
+## Resources for Identifying Your Strengths & Areas of Improvement (for building self-awareness):
+* [Guidelines for signing up for StrengthsFinder]
 * [StrengthsFinder Themes: Adapted for Professional Developers](https://docs.google.com/document/d/1D4AE3y8yVXx5PI7wtPcbdTEz-IbXl6CJm_EZAwkTHew/edit?usp=sharing)
-* Pairin: Log in to your account here....
 
 ## Study Skills
 *
@@ -26,6 +26,9 @@ Below is a listing of areas of soft skills along with links to relevant tools an
 ## Communication Management
 * [Slack](https://docs.google.com/document/d/1OChnYx0ViErOKgNzE6C0hDD9tC9xX683f_dlM_4WYkA/edit?usp=sharing)
 * Email
+
+## Impostor Syndrome & Resiliency
+* [Reading: A Quick Note on Getting Better at Difficult Things by Ta-Nehisi Coates](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/)
 
 ## Time Management & Organizational Resources
 * [Todoist](https://todoist.com): This site provides  
