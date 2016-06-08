@@ -6,6 +6,8 @@ Soft Skills instruction at Turing is a three-fold focus:
   * During Turing (Mods. 1-3): Allison will meet with students during each module to continue development on soft skills, either in small groups or in 1-on-1 meetings. Cohort-specific sessions called Protocol will be taught 
   * Preparing for Post-Turing (Mod. 4): In Module 4, students will meet with the Professional Development Coordinator (Marissa) and the Partnerships Manager (Lia) to discuss and create strategies for the search for jobs in the software industry. 
   
+See more on our approach to soft skills curriculum [here](https://docs.google.com/document/d/13Ojfj3YpqNYIHHI3tvhOvjZE3mvTd91F5IK0-fL1rEM/edit?usp=sharing). 
+
 Below is a listing of soft skills areas along with links to relevant tools and lesson plans:
 
 ## Resources for Identifying Your Strengths & Areas of Improvement (for building self-awareness):
