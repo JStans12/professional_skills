@@ -22,6 +22,9 @@ Below is a listing of soft skills areas along with links to relevant tools and l
 * Listening
 * Presentation & Public Speaking Skills
 * Technical Blogging
+     * [Getting Started Writing a Blog](https://docs.google.com/document/d/1Eeg1rbk_AIIztpzNI62PZSbN1KjUJZYGrwzHwSHX69o/edit?usp=sharing)
+     * [Diving Deeper Into Technical Blogs]()
+     * [Revising Blog Posts]()
      * [List of Tech. Blogs for reference](https://docs.google.com/a/casimircreative.com/document/d/14Z2CsY71j6py5eTA8LZWTmQ7Jb3LY0G8_IKbTo8ikoU/edit?usp=sharing)
 *  
 
