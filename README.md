@@ -44,9 +44,10 @@ Below is a listing of soft skills areas along with links to relevant tools and l
 * [Reading: A Quick Note on Getting Better at Difficult Things by Ta-Nehisi Coates](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/)
 
 ## Time Management & Organizational Resources
-* [Todoist](https://todoist.com): This site provides a way to make and create to-do lists 
-![Todoist]
-* [Google Calendar](https://calendar.google.com/calendar/)
+* [Todoist](https://todoist.com): This site provides a way to create to-do lists complete with sub-tasks, sub-projects, and sharing and collaborating with others. You can create ways to prioritize your to-dos as well.
+![Todoist](images/Todoist.png)
+* [Google Calendar](https://calendar.google.com/calendar/): Use your Google Calendar to keep track of events and due dates at Turing as well as make appointments with your team. 
+![Google Calendar](
 * [Trello](trello.com)
 ![Trello doc](images/Trello.png)
 * [Waffle.io](waffle.io)
