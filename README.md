@@ -15,7 +15,7 @@ Below is a listing of soft skills areas along with links to relevant tools and l
 * [StrengthsFinder Themes: Adapted for Professional Developers](https://docs.google.com/document/d/1D4AE3y8yVXx5PI7wtPcbdTEz-IbXl6CJm_EZAwkTHew/edit?usp=sharing)
 
 ## Study Skills
-*
+* 
 
 ## Communication Skills
 * Collaborating with others
@@ -28,6 +28,14 @@ Below is a listing of soft skills areas along with links to relevant tools and l
      * [List of Tech. Blogs for reference](https://docs.google.com/a/casimircreative.com/document/d/14Z2CsY71j6py5eTA8LZWTmQ7Jb3LY0G8_IKbTo8ikoU/edit?usp=sharing)
 *  
 
+## Working in Teams & Leadership Skills
+* [Define the Relationship (DTR)](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
+* Team Building
+* Project Management
+* Remote Teams
+* Mentoring
+* 
+
 ## Communication Management
 * [Slack](https://docs.google.com/document/d/1OChnYx0ViErOKgNzE6C0hDD9tC9xX683f_dlM_4WYkA/edit?usp=sharing)
 * Email
@@ -36,8 +44,9 @@ Below is a listing of soft skills areas along with links to relevant tools and l
 * [Reading: A Quick Note on Getting Better at Difficult Things by Ta-Nehisi Coates](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/)
 
 ## Time Management & Organizational Resources
-* [Todoist](https://todoist.com): This site provides  
-* [Google Calendar]
+* [Todoist](https://todoist.com): This site provides a way to make and create to-do lists 
+![Todoist]
+* [Google Calendar](https://calendar.google.com/calendar/)
 * [Trello](trello.com)
 ![Trello doc](images/Trello.png)
 * [Waffle.io](waffle.io)
@@ -50,14 +59,6 @@ Below is a listing of soft skills areas along with links to relevant tools and l
 * Building Self-Awareness
 * Building Emotional Self-Awareness
 * Work-Life Balance
-* 
-
-## Working in Teams & Leadership Skills
-* [Define the Relationship (DTR)](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
-* Team Building
-* Project Management
-* Remote Teams
-* Mentoring
 * 
 
 ## Creativity
