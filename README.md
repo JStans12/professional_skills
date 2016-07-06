@@ -47,12 +47,13 @@ Below is a listing of soft skills areas along with links to relevant tools and l
 * [Todoist](https://todoist.com): This site provides a way to create to-do lists complete with sub-tasks, sub-projects, and sharing and collaborating with others. You can create ways to prioritize your to-dos as well.
 ![Todoist](images/Todoist.png)
 * [Google Calendar](https://calendar.google.com/calendar/): Use your Google Calendar to keep track of events and due dates at Turing as well as make appointments with your team. 
-![Google Calendar](
-* [Trello](trello.com)
+![Google Calendar](images/GoogleCalendar.png)
+* [Trello](trello.com): 
 ![Trello doc](images/Trello.png)
-* [Waffle.io](waffle.io)
+* [Waffle.io](waffle.io): 
 ![Waffle doc](images/Waffle.io.png)
-* [Workflowy](https://workflowy.com): This site provides 
+* [Wunderlist](
+* [Workflowy](https://workflowy.com): 
 ![Workflowy doc](images/Workflowy.png)
 
 ## Stress Management & Personal Development
