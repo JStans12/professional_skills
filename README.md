@@ -1,14 +1,14 @@
-# Soft Skills Curriculum & Resources
+# Professional ("Soft") Skills Curriculum & Resources
 
-## Overview of Soft Skills Instruction at Turing
-Soft Skills instruction at Turing is a three-fold focus:
+## Overview of Professional Skills Instruction at Turing
+Professional Skills instruction at Turing is a three-fold focus:
   * Pre-Turing: Before students begin at Turing, they are given a survey to self-assess their soft skills. The Community Affairs Manager (Allison) will use this information to create initial plans for students. 
   * During Turing (Mods. 1-3): Allison will meet with students during each module to continue development on soft skills, either in small groups or in 1-on-1 meetings. Cohort-specific sessions called Protocol will be taught 
   * Preparing for Post-Turing (Mod. 4): In Module 4, students will meet with the Professional Development Coordinator (Marissa) and the Partnerships Manager (Lia) to discuss and create strategies for the search for jobs in the software industry. 
   
 See more on our approach to soft skills curriculum [here](https://docs.google.com/document/d/13Ojfj3YpqNYIHHI3tvhOvjZE3mvTd91F5IK0-fL1rEM/edit?usp=sharing). 
 
-Below is a listing of soft skills areas along with links to relevant tools and lesson plans:
+Below is a listing of professional skills areas along with links to relevant tools and lesson plans:
 
 ## Resources for Identifying Your Strengths & Areas of Improvement:
 * [Guidelines for signing up for StrengthsFinder]
@@ -30,6 +30,7 @@ Below is a listing of soft skills areas along with links to relevant tools and l
 
 ## Working in Teams & Leadership Skills
 * [Define the Relationship (DTR)](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
+* [Giving & Receiving Feedback](https://docs.google.com/document/d/1xwAHzPKWEMwKMJmvb9HSu3Nku4SFTFtyxIV5TU3NOjw/edit?usp=sharing)
 * Team Building
 * Project Management
 * Remote Teams
@@ -72,3 +73,8 @@ Below is a listing of soft skills areas along with links to relevant tools and l
 
 ## Career Exploration
 * [Telling Your Story](https://docs.google.com/document/d/1ux3j3Cp6PZq1EzFH9jy8PbQiXn3N32W7EMAyqRVkVu4/edit?usp=sharing)
+* 
+
+## Personal Branding
+* [LinkedIn]
+* 
