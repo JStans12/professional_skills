@@ -1,4 +1,4 @@
-# Professional ("Soft") Skills Curriculum & Resources
+# Professional Skills Curriculum & Resources
 
 ## Overview of Professional Skills Instruction at Turing
 Professional Skills instruction at Turing is a three-fold focus:
@@ -67,7 +67,14 @@ Below is a listing of professional skills areas along with links to relevant too
 ## Creativity: Building Habits & Frameworks
 Creativity lessons were adapted from [Disciplined Dreaming by Josh Linkner](https://www.amazon.com/Disciplined-Dreaming-Proven-Breakthrough-Creativity/dp/1611203074)
 * Creativity Self-Assessment (Step 1)
+* [Overview of Disciplined Dreaming Framework](file:///Users/allisonreusinger/Downloads/161005-5-steps-disciplined-dreaming-slideshare-final-151106144051-lva1-app6892%20(1).pdf) (Step 2)
+* Creativity Brief (Step 3)
+* Activities to fulfill Step 4 (do 1 or as many as you want)
+     * Name That Ship
+     * Creative Visualization
+     * 
 * 
+* [Slides used in Module 3 Small Groups](https://docs.google.com/presentation/d/10Fodv-7-0CGm0HMUdKvDvlHsZ1yJSdV-VOqdavfRzVw/edit?usp=sharing)
 * Other Resources:
      * [TED Talk: Adam Grant, The Surprising Habits of Original Thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)
      * [TED Talk: Elizabeth Gilbert, Your Elusive Creative Genius](https://www.ted.com/talks/elizabeth_gilbert_on_genius)
