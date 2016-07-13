@@ -20,15 +20,6 @@ Below is a listing of professional skills areas along with links to relevant too
 * [Guidelines for signing up for StrengthsFinder]
 * [StrengthsFinder Themes: Adapted for Professional Developers](https://docs.google.com/document/d/1D4AE3y8yVXx5PI7wtPcbdTEz-IbXl6CJm_EZAwkTHew/edit?usp=sharing)
 
-## Working in Teams & Leadership Skills
-* [Define the Relationship (DTR)](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
-* [Giving & Receiving Feedback](https://docs.google.com/document/d/1xwAHzPKWEMwKMJmvb9HSu3Nku4SFTFtyxIV5TU3NOjw/edit?usp=sharing)
-* Team Building
-* Project Management
-* Remote Teams
-* Mentoring
-* 
-
 ## Communication & Distraction Management
 * [Slack](https://docs.google.com/document/d/1OChnYx0ViErOKgNzE6C0hDD9tC9xX683f_dlM_4WYkA/edit?usp=sharing)
 * Email
