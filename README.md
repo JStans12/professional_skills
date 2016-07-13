@@ -69,6 +69,7 @@ Creativity lessons were adapted from [Disciplined Dreaming by Josh Linkner](http
 * Creativity Self-Assessment (Step 1)
 * [Overview of Disciplined Dreaming Framework](file:///Users/allisonreusinger/Downloads/161005-5-steps-disciplined-dreaming-slideshare-final-151106144051-lva1-app6892%20(1).pdf) (Step 2)
 * Creativity Brief (Step 3)
+     * Or, use the Creativity Brief Lite
 * Activities to fulfill Step 4 (do 1 or as many as you want)
      * Name That Ship
      * Creative Visualization
