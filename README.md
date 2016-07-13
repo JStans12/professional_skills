@@ -13,10 +13,6 @@ Professional Skills instruction at Turing is a three-fold focus:
   
 See more on our approach to professional skills curriculum [here](https://docs.google.com/document/d/13Ojfj3YpqNYIHHI3tvhOvjZE3mvTd91F5IK0-fL1rEM/edit?usp=sharing). 
 
-## Impostor Syndrome & Resiliency
-* [Article: A Quick Note on Getting Better at Difficult Things by Ta-Nehisi Coates](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/)
-* [Podcast: Freakonomics, How to Get More Grit in Your Life](http://freakonomics.com/podcast/grit/)
-
 ## Stress Management & Personal Development
 * Assertiveness & Self Confidence
 * Building Self-Awareness
