@@ -16,7 +16,7 @@ See more on our approach to professional skills curriculum [here](https://docs.g
 
 Below is a listing of professional skills areas along with links to relevant tools and lesson plans:
 
-## Resources for Identifying Your Strengths & Areas of Improvement:
+## Identifying Your Strengths:
 * [Guidelines for signing up for StrengthsFinder]
 * [StrengthsFinder Themes: Adapted for Professional Developers](https://docs.google.com/document/d/1D4AE3y8yVXx5PI7wtPcbdTEz-IbXl6CJm_EZAwkTHew/edit?usp=sharing)
 
@@ -49,7 +49,8 @@ Below is a listing of professional skills areas along with links to relevant too
 * Email
 
 ## Impostor Syndrome & Resiliency
-* [Reading: A Quick Note on Getting Better at Difficult Things by Ta-Nehisi Coates](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/)
+* [Article: A Quick Note on Getting Better at Difficult Things by Ta-Nehisi Coates](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/)
+* [Podcast: Freakonomics, How to Get More Grit in Your Life](http://freakonomics.com/podcast/grit/)
 
 ## Stress Management & Personal Development
 * Assertiveness & Self Confidence
