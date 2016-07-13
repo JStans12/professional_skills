@@ -27,6 +27,7 @@ Below is a listing of professional skills areas along with links to relevant too
 * Collaborating with others
 * Listening
 * Presentation & Public Speaking Skills
+* [TED Talk: Celeste Headlee, 10 Ways to Have a Better Conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation?language=en)
 * Technical Blogging
      * [Getting Started Writing a Blog](https://docs.google.com/document/d/1Eeg1rbk_AIIztpzNI62PZSbN1KjUJZYGrwzHwSHX69o/edit?usp=sharing)
      * [Diving Deeper Into Technical Blogs]()
