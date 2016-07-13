@@ -12,11 +12,3 @@ Professional Skills instruction at Turing is a three-fold focus:
      * Alumni are also welcome to set up meetings with Allison to finetune skills during their job search. 
   
 See more on our approach to professional skills curriculum [here](https://docs.google.com/document/d/13Ojfj3YpqNYIHHI3tvhOvjZE3mvTd91F5IK0-fL1rEM/edit?usp=sharing). 
-
-## Stress Management & Personal Development
-* Assertiveness & Self Confidence
-* Building Self-Awareness
-* Building Emotional Self-Awareness
-* Work-Life Balance
-* 
-
