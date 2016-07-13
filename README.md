@@ -64,7 +64,7 @@ Below is a listing of professional skills areas along with links to relevant too
 * Work-Life Balance
 * 
 
-## Building Creativity Habits & Frameworks
+## Creativity: Building Habits & Frameworks
 Creativity lessons were adapted from [Disciplined Dreaming by Josh Linkner](https://www.amazon.com/Disciplined-Dreaming-Proven-Breakthrough-Creativity/dp/1611203074)
 * Creativity Self-Assessment (Step 1)
 * 
