@@ -14,11 +14,6 @@ Professional Skills instruction at Turing is a three-fold focus:
   
 See more on our approach to professional skills curriculum [here](https://docs.google.com/document/d/13Ojfj3YpqNYIHHI3tvhOvjZE3mvTd91F5IK0-fL1rEM/edit?usp=sharing). 
 
-Below is a listing of professional skills areas along with links to relevant tools and lesson plans:
-
-## Identifying Your Strengths:
-* [Guidelines for signing up for StrengthsFinder]
-* [StrengthsFinder Themes: Adapted for Professional Developers](https://docs.google.com/document/d/1D4AE3y8yVXx5PI7wtPcbdTEz-IbXl6CJm_EZAwkTHew/edit?usp=sharing)
 
 ## Communication & Distraction Management
 * [Slack](https://docs.google.com/document/d/1OChnYx0ViErOKgNzE6C0hDD9tC9xX683f_dlM_4WYkA/edit?usp=sharing)
