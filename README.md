@@ -67,7 +67,7 @@ Creativity lessons were adapted from [Disciplined Dreaming by Josh Linkner](http
      * Name That Ship
      * Creative Visualization
      * 
-* 
+* Risk-Taking & Failing: How to Make These into Opportunities
 * [Slides used in Module 3 Small Groups](https://docs.google.com/presentation/d/10Fodv-7-0CGm0HMUdKvDvlHsZ1yJSdV-VOqdavfRzVw/edit?usp=sharing)
 * Other Resources:
      * [TED Talk: Adam Grant, The Surprising Habits of Original Thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)
