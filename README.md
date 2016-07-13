@@ -1,6 +1,6 @@
 # Professional Skills Curriculum & Resources
 
-Professional Skills instruction at Turing is a three-fold focus:
+## Professional Skills instruction at Turing is a three-fold focus:
   * Pre-Turing: 
      * Before students begin at Turing, they are given a survey to self-assess their professional skills. The Community Affairs Manager (Allison) will use this information to create initial action plans and suggestions for students. 
   * During Turing (Mods. 1-4): 
@@ -11,4 +11,12 @@ Professional Skills instruction at Turing is a three-fold focus:
      * Upon graduation, students are provided with opportunities to continue developing their professional skills through support sessions within our Turing Alumni Chapters and can attend any sessions or utilize any resources offered by Turing. 
      * Alumni are also welcome to set up meetings with Allison to finetune skills during their job search. 
   
+
+## Resources and Lessons are structuredaccording to mindsets that we would like to see developed in our students:
+* Growth
+* Engagement
+* Agency
+* Empathy
+* Grit
+
 See more on our approach to professional skills curriculum [here](https://docs.google.com/document/d/13Ojfj3YpqNYIHHI3tvhOvjZE3mvTd91F5IK0-fL1rEM/edit?usp=sharing). 
