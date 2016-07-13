@@ -20,21 +20,6 @@ Below is a listing of professional skills areas along with links to relevant too
 * [Guidelines for signing up for StrengthsFinder]
 * [StrengthsFinder Themes: Adapted for Professional Developers](https://docs.google.com/document/d/1D4AE3y8yVXx5PI7wtPcbdTEz-IbXl6CJm_EZAwkTHew/edit?usp=sharing)
 
-## Study Skills
-* 
-
-## Communication Skills
-* Collaborating with others
-* Listening
-* Presentation & Public Speaking Skills
-* [TED Talk: Celeste Headlee, 10 Ways to Have a Better Conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation?language=en)
-* Technical Blogging
-     * [Getting Started Writing a Blog](https://docs.google.com/document/d/1Eeg1rbk_AIIztpzNI62PZSbN1KjUJZYGrwzHwSHX69o/edit?usp=sharing)
-     * [Diving Deeper Into Technical Blogs]()
-     * [Revising Blog Posts]()
-     * [List of Tech. Blogs for reference](https://docs.google.com/a/casimircreative.com/document/d/14Z2CsY71j6py5eTA8LZWTmQ7Jb3LY0G8_IKbTo8ikoU/edit?usp=sharing)
-*  
-
 ## Working in Teams & Leadership Skills
 * [Define the Relationship (DTR)](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing)
 * [Giving & Receiving Feedback](https://docs.google.com/document/d/1xwAHzPKWEMwKMJmvb9HSu3Nku4SFTFtyxIV5TU3NOjw/edit?usp=sharing)
