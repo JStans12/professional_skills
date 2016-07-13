@@ -72,6 +72,7 @@ Creativity lessons were adapted from [Disciplined Dreaming by Josh Linkner](http
      * [TED Talk: Adam Grant, The Surprising Habits of Original Thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)
      * [TED Talk: Elizabeth Gilbert, Your Elusive Creative Genius](https://www.ted.com/talks/elizabeth_gilbert_on_genius)
      * [Article: Fear is Boring, and Other Tips for Living a Creative Life by Elizabeth Gilbert](http://ideas.ted.com/fear-is-boring-and-other-tips-for-living-a-creative-life/)
+     * [Article: Automatic Creativity: How to Make Creative Thinking into a Habit by David Masters](http://business.tutsplus.com/tutorials/automatic-creativity-how-to-make-creative-thinking-into-a-habit--cms-22181)
 
 ## Career Exploration
 * [Telling Your Story](https://docs.google.com/document/d/1ux3j3Cp6PZq1EzFH9jy8PbQiXn3N32W7EMAyqRVkVu4/edit?usp=sharing)
