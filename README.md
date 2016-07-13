@@ -1,6 +1,5 @@
 # Professional Skills Curriculum & Resources
 
-## Overview of Professional Skills Instruction at Turing
 Professional Skills instruction at Turing is a three-fold focus:
   * Pre-Turing: 
      * Before students begin at Turing, they are given a survey to self-assess their professional skills. The Community Affairs Manager (Allison) will use this information to create initial action plans and suggestions for students. 
@@ -13,11 +12,6 @@ Professional Skills instruction at Turing is a three-fold focus:
      * Alumni are also welcome to set up meetings with Allison to finetune skills during their job search. 
   
 See more on our approach to professional skills curriculum [here](https://docs.google.com/document/d/13Ojfj3YpqNYIHHI3tvhOvjZE3mvTd91F5IK0-fL1rEM/edit?usp=sharing). 
-
-
-## Communication & Distraction Management
-* [Slack](https://docs.google.com/document/d/1OChnYx0ViErOKgNzE6C0hDD9tC9xX683f_dlM_4WYkA/edit?usp=sharing)
-* Email
 
 ## Impostor Syndrome & Resiliency
 * [Article: A Quick Note on Getting Better at Difficult Things by Ta-Nehisi Coates](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/)
