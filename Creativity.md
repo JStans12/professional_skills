@@ -27,7 +27,7 @@ Linker's suggested framework for driving creativity in your everyday life and in
 
 See more: [Overview of Disciplined Dreaming Framework](files/DisciplinedDreamingSlides.pdf) from LinkedIn Slideshare
 
-* [Creativity Self-Assessment](https://docs.google.com/document/d/1tP_17UWagRPktViYfywWW1GGyy5zlDO0oa4rv6h65rE/edit?usp=sharing) (Start here to assess your comfort level with creativity)
+* [Creativity Self-Assessment](https://docs.google.com/document/d/1tP_17UWagRPktViYfywWW1GGyy5zlDO0oa4rv6h65rE/edit?usp=sharing) (Start here to assess your comfort level with creativity and where you can focus to improve in this area)
 * [Creativity Brief](https://docs.google.com/document/d/13M1XuCQIt7_26GHFAnfnB_prlb36KGRO-E-QKklFosI/edit?usp=sharing) (Fulfilling the Ask step)
      * Or, use the [Creativity Brief Lite](https://docs.google.com/document/d/199sWbexvVbwpayRN2J5Mcj-XWNjUHxvHUGLgA4M-g-g/edit?usp=sharing)
 * Activities to fulfill the Prepare piece - do 1 or as many as you want (Step 4)
