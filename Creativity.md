@@ -12,7 +12,7 @@ Linker's suggested framework for driving creativity in your everyday life and in
     * Ignite
     * Launch
 
-See more:[Overview of Disciplined Dreaming Framework](file:///Users/allisonreusinger/Downloads/161005-5-steps-disciplined-dreaming-slideshare-final-151106144051-lva1-app6892%20(1).pdf)
+See more: [Overview of Disciplined Dreaming Framework](file:///Users/allisonreusinger/Downloads/161005-5-steps-disciplined-dreaming-slideshare-final-151106144051-lva1-app6892%20(1).pdf)
 
 * Creativity Self-Assessment (Start here to assess your comfort level with creativity)
 * [Creativity Brief](https://docs.google.com/document/d/13M1XuCQIt7_26GHFAnfnB_prlb36KGRO-E-QKklFosI/edit?usp=sharing) (Fulfilling the Ask step)
