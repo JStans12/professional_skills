@@ -25,7 +25,7 @@ See more: [Overview of Disciplined Dreaming Framework](files/DisciplinedDreaming
      * Creative Visualization
      * 
 * Risk-Taking & Failing: How to Make These into Opportunities
-* [Slides used in Module 3 Small Groups](https://docs.google.com/presentation/d/10Fodv-7-0CGm0HMUdKvDvlHsZ1yJSdV-VOqdavfRzVw/edit?usp=sharing)
+* [Slides used in Module 3 Small Groups: Covering Ask & Prepare](https://docs.google.com/presentation/d/10Fodv-7-0CGm0HMUdKvDvlHsZ1yJSdV-VOqdavfRzVw/edit?usp=sharing)
 
 ## Adapted from...
 
