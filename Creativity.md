@@ -10,10 +10,20 @@ Linker's suggested framework for driving creativity in your everyday life and in
         * Explore possibilities
         * Awaken curiosity and awareness
     * Prepare:
-        * 
-    * Discover
-    * Ignite
-    * Launch
+        * Ensure you're ready to meet the challenge you've identified 
+        * Warm up your creativity muscles
+        * Create an atmosphere for yourself or your team that is fun, surprising, and primed for cultivating creativity
+    * Discover:
+        * Explore every avenue that might lead to creative ideas
+        * Challenge the ideas of "We've always done it that way" or "This is our usual approach"
+    * Ignite:
+        * Allow your ideas to flow freely in order to see what sparks. 
+        * Utilize different techniques (listed below) to generate ideas and turn those "sparks" into "fires."
+    * Launch:
+        * Put your brainstorming into action
+        * Select your best ideas
+        * Determine key metrics for measurement
+        * Build an action plan to bring your ideas to life
 
 See more: [Overview of Disciplined Dreaming Framework](files/DisciplinedDreamingSlides.pdf) from LinkedIn Slideshare
 
