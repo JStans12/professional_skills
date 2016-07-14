@@ -3,6 +3,7 @@
 ## Adapted from [Disciplined Dreaming by Josh Linkner](https://www.amazon.com/Disciplined-Dreaming-Proven-Breakthrough-Creativity/dp/1611203074)
 
 Linker's suggested framework for driving creativity in your everyday life and in your teams and organizations follows these 5 steps:
+
     * Ask:
         * Identify the problem you would like to solve
     * Prepare:
