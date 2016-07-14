@@ -12,7 +12,7 @@ Collaboration and teamwork are essential skills that Turing emphasizes during ea
 * Using Pull Requests
 
 ## After the project:
-* * [Giving & Receiving Feedback](https://docs.google.com/document/d/1xwAHzPKWEMwKMJmvb9HSu3Nku4SFTFtyxIV5TU3NOjw/edit?usp=sharing)
+* [Giving & Receiving Feedback](https://docs.google.com/document/d/1xwAHzPKWEMwKMJmvb9HSu3Nku4SFTFtyxIV5TU3NOjw/edit?usp=sharing)
 
 * Tips for working in remote teams
 
