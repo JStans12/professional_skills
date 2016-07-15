@@ -1,6 +1,7 @@
 # Communication Skills
 
-* Listening
+* [Identifying your Communication Style](http://www.forbes.com/sites/markmurphy/2015/08/06/which-of-these-4-communication-styles-are-you/#3e59fbd41ecb)
+* Tips for Improving your Listening Skills
 * Presentation & Public Speaking Skills
 * [TED Talk: Celeste Headlee, 10 Ways to Have a Better Conversation](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation?language=en)
 * Technical Blogging
