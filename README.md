@@ -18,5 +18,3 @@ Resources and Lessons are structured according to mindsets that we would like to
 * Agency
 * Empathy
 * Grit
-
-See more on our approach to professional skills curriculum [here](https://docs.google.com/document/d/13Ojfj3YpqNYIHHI3tvhOvjZE3mvTd91F5IK0-fL1rEM/edit?usp=sharing). 
