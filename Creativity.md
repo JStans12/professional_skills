@@ -6,7 +6,7 @@ Linker's suggested framework for driving creativity in your everyday life and in
 
     * Ask:
         * Identify the problem you would like to solve
-        * Ask questions
+        * Ask questions (why? what if? why not?)
         * Explore possibilities
         * Awaken curiosity and awareness
     * Prepare:
@@ -34,12 +34,13 @@ See more: [Overview of Disciplined Dreaming Framework](files/DisciplinedDreaming
 
 * [Activities for Ask](https://docs.google.com/document/d/1x0O3xLU3LiDO9ErHilInAndCUaP65AofRqpbnTxgr0U/edit?usp=sharing) (Name that Ship, Creative Visualization, Zooming Out, Death by Questions)
 
-    Focus on honing these 5 skills to strengthen your innovation:
-      * Associating:
-    * Questioning:
-    * Observing:
-    * Experimenting:
-    * Networking:
+    Challenge: Incorporate these 5 ideas into your planning for the personal project (BEE M3) and beyond: 
+      * Associating: Finding connections between seemingly unrelated ideas.
+      * Questioning: In addition to the 3 magic questions, ask yourself open-ended questions: what could...? How might...? If..., then what about...? Have you thought about...? 
+      * Observing: Raise your level of awareness by observing what is happening in the world and then imagining what could be different. What could be automated?
+      * Experimenting: Don't be afraid of failure. Experiment until you find the best solutions.
+      * Networking: Networking is not just about finding a job. Instead, focus on finding diverse people whose ideas challenge your own thinking and expand your perspective. Seek as much diversity as possible, including diversity of age, gender, political view, educational background, career role, religious/philosophical perspective, and geographical location. 
+
 * [More Activities for Ask](
 
 * [Activities for Prepare](
