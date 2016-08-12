@@ -28,9 +28,19 @@ Linker's suggested framework for driving creativity in your everyday life and in
 See more: [Overview of Disciplined Dreaming Framework](files/DisciplinedDreamingSlides.pdf) from LinkedIn Slideshare
 
 * [Creativity Self-Assessment](https://docs.google.com/document/d/1tP_17UWagRPktViYfywWW1GGyy5zlDO0oa4rv6h65rE/edit?usp=sharing) (Start here to assess your comfort level with creativity and where you can focus to improve in this area)
+
 * [Creativity Brief](https://docs.google.com/document/d/13M1XuCQIt7_26GHFAnfnB_prlb36KGRO-E-QKklFosI/edit?usp=sharing) (Start here to help yourself define objectives for finding creative solutions to problems)
      * Or, use the [Creativity Brief Lite](https://docs.google.com/document/d/199sWbexvVbwpayRN2J5Mcj-XWNjUHxvHUGLgA4M-g-g/edit?usp=sharing)
-* [Activities for Ask](https://docs.google.com/document/d/1x0O3xLU3LiDO9ErHilInAndCUaP65AofRqpbnTxgr0U/edit?usp=sharing)
+
+* [Activities for Ask](https://docs.google.com/document/d/1x0O3xLU3LiDO9ErHilInAndCUaP65AofRqpbnTxgr0U/edit?usp=sharing) (Name that Ship, Creative Visualization, Zooming Out, Death by Questions, Go Light)
+Focus on honing these 5 skills to strengthen your innovation:
+1. Associating:
+2. Questioning:
+3. Observing:
+4. Experimenting:
+5. Networking:
+* [More Activities for Ask](
+
 * [Activities for Prepare](
 * Risk-Taking & Failing: How to Make These into Opportunities
 * [Slides used in Module 3 Small Groups: Covering Ask & Prepare](https://docs.google.com/presentation/d/10Fodv-7-0CGm0HMUdKvDvlHsZ1yJSdV-VOqdavfRzVw/edit?usp=sharing)
