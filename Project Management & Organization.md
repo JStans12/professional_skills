@@ -19,7 +19,7 @@ Read more at http://www.andrewconnell.com/blog/project-task-management-using-tre
 ![Waffle doc](images/Waffle.io.png)
 
 * [Wunderlist](https://www.wunderlist.com): This is a straightforward app for creating to-do lists and setting reminders. You can also collaborate with others on shared lists. 
-![Wunderlist](
+![Wunderlist](images/Wunderlist.png)
 
 * [Workflowy](https://workflowy.com): 
 ![Workflowy doc](images/Workflowy.png)
