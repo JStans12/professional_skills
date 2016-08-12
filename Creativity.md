@@ -32,13 +32,14 @@ See more: [Overview of Disciplined Dreaming Framework](files/DisciplinedDreaming
 * [Creativity Brief](https://docs.google.com/document/d/13M1XuCQIt7_26GHFAnfnB_prlb36KGRO-E-QKklFosI/edit?usp=sharing) (Start here to help yourself define objectives for finding creative solutions to problems)
      * Or, use the [Creativity Brief Lite](https://docs.google.com/document/d/199sWbexvVbwpayRN2J5Mcj-XWNjUHxvHUGLgA4M-g-g/edit?usp=sharing)
 
-* [Activities for Ask](https://docs.google.com/document/d/1x0O3xLU3LiDO9ErHilInAndCUaP65AofRqpbnTxgr0U/edit?usp=sharing) (Name that Ship, Creative Visualization, Zooming Out, Death by Questions, Go Light)
-Focus on honing these 5 skills to strengthen your innovation:
-1.       Associating:
-2.       Questioning:
-3.       Observing:
-4.       Experimenting:
-5.       Networking:
+* [Activities for Ask](https://docs.google.com/document/d/1x0O3xLU3LiDO9ErHilInAndCUaP65AofRqpbnTxgr0U/edit?usp=sharing) (Name that Ship, Creative Visualization, Zooming Out, Death by Questions)
+
+    Focus on honing these 5 skills to strengthen your innovation:
+      * Associating:
+    * Questioning:
+    * Observing:
+    * Experimenting:
+    * Networking:
 * [More Activities for Ask](
 
 * [Activities for Prepare](
