@@ -7,7 +7,7 @@
 * [Google Calendar](https://calendar.google.com/calendar/): Use your Google Calendar to keep track of events and due dates at Turing as well as make appointments with your team. 
 ![Google Calendar](images/GoogleCalendar.png)
 * [Google Keep](https://keep.google.com/u/0/): Keep track of notes, reminders, and to-do lists in one place that syncs with your Google accounts and that you can share with others to help hold yourself accountable. 
-![Google Keep](
+![Google Keep](images/GoogleKeep.png)
 * [Trello](trello.com): 
 ![Trello doc](images/Trello.png)
 * [Waffle.io](waffle.io): 
