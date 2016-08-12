@@ -9,3 +9,7 @@
      * [Diving Deeper Into Technical Blogs]()
      * [Revising Blog Posts]()
      * [List of Tech. Blogs for reference](https://docs.google.com/a/casimircreative.com/document/d/14Z2CsY71j6py5eTA8LZWTmQ7Jb3LY0G8_IKbTo8ikoU/edit?usp=sharing)
+
+## Remote Communication
+
+* [Using ScreenHero](https://screenhero.com): ScreenHero allows you to share screens with others developers to work together seamlessly. You are able to use your own mouse cursor and use voice chat. You can review code and pull requests in real time. ScreenHero was also recently acquired by Slack, which will make communicating remotely even more streamlined.
