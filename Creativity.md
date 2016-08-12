@@ -34,11 +34,11 @@ See more: [Overview of Disciplined Dreaming Framework](files/DisciplinedDreaming
 
 * [Activities for Ask](https://docs.google.com/document/d/1x0O3xLU3LiDO9ErHilInAndCUaP65AofRqpbnTxgr0U/edit?usp=sharing) (Name that Ship, Creative Visualization, Zooming Out, Death by Questions, Go Light)
 Focus on honing these 5 skills to strengthen your innovation:
-1. Associating:
-2. Questioning:
-3. Observing:
-4. Experimenting:
-5. Networking:
+1.       Associating:
+2.       Questioning:
+3.       Observing:
+4.       Experimenting:
+5.       Networking:
 * [More Activities for Ask](
 
 * [Activities for Prepare](
