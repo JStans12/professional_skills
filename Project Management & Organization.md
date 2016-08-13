@@ -3,7 +3,7 @@
 ## Recommended Apps for Effective Project & Time Management:
 
 * [ScatterSpoke](https://www.scatterspoke.com/): This site is a streamlined and shareable way for teams to retro on projects in real time. 
-![ScatterSpoke](
+![ScatterSpoke](images/ScatterSpoke.png)
 
 * [Todoist](https://todoist.com): This site provides a way to create to-do lists complete with sub-tasks, sub-projects, and sharing and collaborating with others. You can create ways to prioritize your to-dos as well.
 ![Todoist](images/Todoist.png)
