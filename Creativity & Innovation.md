@@ -1,4 +1,4 @@
-# Creativity: Building Habits & Frameworks
+# Creativity & Innovation: Building Habits & Frameworks
 
 ## Adapted from [Disciplined Dreaming by Josh Linkner](https://www.amazon.com/Disciplined-Dreaming-Proven-Breakthrough-Creativity/dp/1611203074)
 
