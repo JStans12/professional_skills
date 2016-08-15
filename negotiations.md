@@ -1,6 +1,7 @@
 # Negotiations
 For some reason we live in a world that is afraid to talk openly about money. That changes for you today. In this session we'll have an open discussion about averages our alums are currently making in full-time junior developer jobs, apprenticeships, internships, and contract/freelance opportunities.
 
+Reference the [Negotiations slide deck](https://github.com/turingschool/professional_skills/blob/master/files/negotiations.pdf) for a refresher
 
 ## Learning Competencies
 - Evaluate offer package for more than solely the salary amount
