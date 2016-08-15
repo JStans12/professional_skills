@@ -1,6 +1,8 @@
 # Personal Branding Part II
 Dig deeper into your story and let people get to know you as a developer, contributor to the tech industry, and individual member of society. Showcase your technical skills, transferable skills, and ability to make a difference on a dev team.
 
+Reference [Personal Branding Part II slide deck](https://github.com/turingschool/professional_skills/blob/master/files/personal-branding-p2.pdf) for refresher
+
 ## Deliverables
 - Website copy
 - Plan for personal site
