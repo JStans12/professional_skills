@@ -12,7 +12,7 @@ Resources and Lessons are structured according to mindsets that we would like to
 
 ## Module One:
 
-### Personal Branding Part I (led by Employment Coordinator)
+### [Personal Branding Part I](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md) (led by Employment Coordinator)
 Learning how to tell your story based on the channel you’re using to communicate is important for successfully conveying how you’ll contribute to a team and the tech community. Think about how you’d like to contribute your prior experience and career to the tech community. How would you like to use your skills as a software developer? In this workshop we’ll talk through how the resume, LinkedIn, Twitter, and Github all contribute to telling your story and will support your job search. 
 
 #### Deliverables:
@@ -25,7 +25,7 @@ Follow-up small groups with FEE: Continuing to build effective pairing relations
 ####Deliverable: 
 Include a DTR memo in portfolio
 
-###Personal Branding Part II (led by Employment Coordinator)
+###[Personal Branding Part II](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p2.md) (led by Employment Coordinator)
 As a group we will review each other’s virtual branding collateral to see how your story is received, where it needs improvement, and how it can be tied together with your personal site. 
 
 #### Deliverables:
@@ -44,7 +44,7 @@ Reflection on Signature Themes immediately after taking the assessment
 Reflection on Signature Themes and goals for the next module at the end of the module
 
 ## Module Two:
-### Finding Opportunities (led by Employment Coordinator)
+### [Finding Opportunities](https://github.com/turingschool/professional_skills/blob/master/finding_opportunities.md) (led by Employment Coordinator)
 Looking for jobs on sites like Monster.com, Indeed, and other career listing sites can be discouraging and ineffective. Let’s talk about how to find a job without relying on your resume or job postings. 
 
 #### Deliverable:
@@ -59,7 +59,7 @@ Reflection in portfolio on how students improved on feedback during projects
 ### Project Management & Agile Practices FEE M2 - Whole-Group (led by Community Affairs Manager)
 In this session, we’ll discuss strategies for how to effectively manage projects in different iterations as well as continuing to refine communication skills when working with different team members. 
 
-### Networking (led by Employment Coordinator)
+### [Networking](https://github.com/turingschool/professional_skills/blob/master/networking.md) (led by Employment Coordinator)
 Few people like the idea of networking, however building relationships with people will impact the success of a healthy job search. Learn how to build the right relationships, what networking looks like for an introvert vs. an extrovert, and how to take turn a conversation into an interview.
 
 #### Deliverable:
@@ -76,7 +76,7 @@ Complementary Partners
 Reflection on Signature Themes and goals for the next module at the end of the module
 
 ## Module Three:
-### Job Search Strategy Planning (led by Employment Coordinator)
+### [Job Search Strategy Planning](https://github.com/turingschool/professional_skills/blob/master/job_search_strategy.md) (led by Employment Coordinator)
 It’s easy to procrastinate the job search, in order to keep on track it will be important to build out a realistic strategy and timeline for the search. We want offers before we graduate, let’s figure out how to achieve that with a reliable plan!
 
 #### Deliverable:
@@ -101,7 +101,7 @@ The interview process for a Software Developer role is a bit different than a tr
 Schedule a mock interview with a mentor
 
 ## Module Four: 
-### Negotiations (led by Partnership Manager)
+### [Negotiations](https://github.com/turingschool/professional_skills/blob/master/negotiations.md) (led by Partnership Manager)
 So few people negotiate comfortably or even try. Negotiation is an important part in growing your career. Let’s talk about how to negotiate with confidence and respect to ensure you’re appropriately advocating for your value.
 
 ### Telling Your Story, using the completed Flower Exercise (led by Community Affairs Manager)
