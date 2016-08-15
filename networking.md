@@ -1,5 +1,7 @@
 # Networking
 
+Reference [Networking slide deck](https://github.com/turingschool/professional_skills/blob/master/files/networking.pdf) for a refresher
+
 ## Learning Competencies:
 
 - Establish rapport with local tech community
@@ -23,7 +25,7 @@ Asking for time to learn more about a company or individual is a form of network
 ### Your Turn
 - Choose one of the companies from your list that was generated during the Finding Opportunities workshop
 - Use LinkedIn to find someone at that company you believe you could build a connection with. Note that this does not need to be the recruiter or hiring manager, this could be (and probably should be) a developer at any level.
-- Look for their email using [Rapportive](INSERTLINK), [Email Hunter](INSERTLINK), or clone a repo from their GitHub to pull the email.
+- Look for their email using [Rapportive](https://rapportive.com/), [Email Hunter](https://emailhunter.co/), or clone a repo from their GitHub to pull the email.
 - Craft an email that draws a personalized connection between you and the person you're email. Make it clear that it's not a form letter that could be sent to anyone.
 - Keep it concise and to the point.
 - Wrap up the email with a call to action. i.e. "Are you available to grab coffee on X day at X time at X place (pick somewhere close to their office)?"
