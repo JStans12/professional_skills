@@ -1,6 +1,8 @@
 # Job Search Strategy Planning
 What do you want to do after you complete Turing? Have you thought about the types of things you'd like to be doing on a daily basis? Or the over arching results you'd like from your career? Are you contributing to technology that changes people's lives? Are you working on a product that impacts your learning exponentially? Are you open to traveling for consulting or do you prefer to stay put in a single location?
 
+Reference [Job Search Strategy Planning](https://github.com/turingschool/professional_skills/blob/master/files/job-search-strategy-planning.pdf) for refresher
+
 
 ## Learning Competencies
 - Planning effective job search tactics
