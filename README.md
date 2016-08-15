@@ -10,6 +10,28 @@ Resources and Lessons are structured according to mindsets that we would like to
 * Empathy
 * Grit
 
+## Overview
+### Module 1:
+* Learning to Pair
+* Personal Branding
+* StrengthsFinder (optional)
+
+### Module 2:
+* Communicating as a team, including agile practices
+* Finding job opportunities
+* Networking
+
+### Module 3:
+* Building creativity
+* Reflections and goal-planning on professional development
+* Interviewing
+* Job-Planning Strategies
+
+### Module 4:
+* Personal Branding
+* Negotiations
+
+## Breakdown:
 ## Module One:
 
 ### [Personal Branding Part I](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md) (led by Employment Coordinator)
