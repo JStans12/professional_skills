@@ -12,8 +12,8 @@ Resources and Lessons are structured according to mindsets that we would like to
 
 Professional Development is divided into 3 areas in Turing's curriculum:
 * [Gear Up](https://github.com/turingschool/gear-up) (Beth Sebian, Teaching Assistant)
-* PROtocol Sessions (Community Affairs Manager)
-* Professional Development Sessions (Partnerships Manager/Employment Coordinator)
+* PROtocol Sessions, information listed below (Community Affairs Manager)
+* Professional Development Sessions, information listed below (Partnerships Manager/Employment Coordinator)
 
 ## Overview
 ### Module 1:
