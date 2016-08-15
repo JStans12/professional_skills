@@ -20,16 +20,19 @@ Resources and Lessons are structured according to mindsets that we would like to
 * Communicating as a team, including agile practices
 * Finding job opportunities
 * Networking
+* StrengthsFinder (optional)
 
 ### Module 3:
 * Building creativity
 * Reflections and goal-planning on professional development
 * Interviewing
 * Job-Planning Strategies
+* StrengthsFinder (optional)
 
 ### Module 4:
 * Personal Branding
 * Negotiations
+* StrengthsFinder (optional)
 
 ## Breakdown:
 ## Module One:
