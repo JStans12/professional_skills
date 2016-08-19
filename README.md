@@ -85,8 +85,8 @@ Reflecting on feedback from Rush Hour, creating goals for Little Shop; followed 
 
 #### Deliverable:
 Two paragraph reflection in your portfolio on:
-1. Details on project management strategies you used in your group projects (Rush Hour and/or Little Shop)
-2. How you incorporated feedback from your team members and what you learned about yourself in the process
+     1. Details on project management strategies you used in your group projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+     2. How you incorporated feedback from your team members and what you learned about yourself in the process
 
 ### Project Management & Agile Practices FEE M2 - Whole-Group (led by Community Affairs Manager)
 In this session, we’ll discuss strategies for how to effectively manage projects in different iterations as well as continuing to refine communication skills when working with different team members. 
