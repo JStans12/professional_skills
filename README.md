@@ -4,7 +4,7 @@ During your time at Turing School of Software and Design, you’ll be preparing 
 
 Resources and Lessons are structured according to mindsets that we would like to see developed in our students:
 
-* Growth
+* Growth Mindsets
 * Engagement
 * Agency
 * Empathy
