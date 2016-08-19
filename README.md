@@ -80,11 +80,13 @@ Looking for jobs on sites like Monster.com, Indeed, and other career listing sit
 #### Deliverable:
 Job tracking/company list setup to add five companies with contact information to the tracker.
 
-### Collaborative communication for working in teams - Whole group BEE M2 (led by Community Affairs Manager)
+### Collaborative Communication for working in teams - Whole group BEE M2 (led by Community Affairs Manager)
 Reflecting on feedback from Rush Hour, creating goals for Little Shop; followed up by small groups for BEE
 
 #### Deliverable:
-Reflection in portfolio on how students improved on feedback during projects
+Two paragraph reflection in your portfolio on:
+1. Details on project management strategies you used in your group projects (Rush Hour and/or Little Shop)
+2. How you incorporated feedback from your team members and what you learned about yourself in the process
 
 ### Project Management & Agile Practices FEE M2 - Whole-Group (led by Community Affairs Manager)
 In this session, we’ll discuss strategies for how to effectively manage projects in different iterations as well as continuing to refine communication skills when working with different team members. 
