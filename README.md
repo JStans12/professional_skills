@@ -48,7 +48,7 @@ Learning how to tell your story based on the channel you’re using to communica
 #### Deliverables:
 At the end of this workshop you’ll have a resume specific for the tech industry, LinkedIn profile, Twitter account, and GitHub profile. 
 
-###Learning how to Pair (led by Community Affairs Manager)
+###[Learning how to Pair](https://github.com/turingschool/professional_skills/blob/master/learning-to-pair.md) (led by Community Affairs Manager)
 We do a lot of paired projects at Turing. Why? Because the software industry emphasizes pairing within its teams -- we want to mimic the industry as much as possible. To prepare you for working with others on big projects with tight deadlines, this session covers DTR (Defining the Relationship), a conversation that will help you set expectations with your partner(s), how to uphold those expectations, how to have crucial conversations when expectations are broken, how to give each other effective feedback, and how to take feedback
 Follow-up small groups with FEE: Continuing to build effective pairing relationships 
 
@@ -80,7 +80,7 @@ Looking for jobs on sites like Monster.com, Indeed, and other career listing sit
 #### Deliverable:
 Job tracking/company list setup to add five companies with contact information to the tracker.
 
-### Collaborative Communication for working in teams - Whole group BEE M2 (led by Community Affairs Manager)
+### [Collaborative Communication for working in teams](https://github.com/turingschool/professional_skills/blob/master/collaborative-communication.md) - Whole group BEE M2 (led by Community Affairs Manager)
 Reflecting on feedback from Rush Hour, creating goals for Little Shop; followed up by small groups for BEE
 
 #### Deliverable:
@@ -114,13 +114,13 @@ It’s easy to procrastinate the job search, in order to keep on track it will b
 #### Deliverable:
 Calendar with daily, weekly, and monthly goals
 
-### Innovative Problem-Solving Strategies - Whole group (led by Community Affairs Manager)
+### [Innovative Problem-Solving Strategies](https://github.com/turingschool/professional_skills/blob/master/innovative-problem-solving.md) - Whole group (led by Community Affairs Manager)
 Does the idea of creativity intimidate you? Do personal projects feel daunting? In this session, we’ll break down a step-by-step framework to problem-solving to drive creativity in everyday habits and in the BEE Mod. 3 personal project.  
 
 #### Deliverable:
 This session leads into the brainstorming phase for the BEE Mod. 3 personal project, so the deliverable is a successfully executed personal project. 
 
-### Flower Exercise from What Color is Your Parachute? - Whole group (led by Community Affairs Manager)
+### [Flower Exercise from What Color is Your Parachute?](https://github.com/turingschool/professional_skills/blob/master/petal-exercise.md) - Whole group (led by Community Affairs Manager)
 In this session, we’ll discuss 7 different aspects of your personality, goals, and preferences using a tried and true method from What Color is Your Parachute? a premier job-searching handbook. By looking inward at each of these “petals” of yourself, you will be able to define what is important to you in the job search to find a job that is the right fit for you. 
 
 #### Deliverable: 
