@@ -2,7 +2,7 @@
 
 Pairing with other programmers is an essential agile practice, and building your pairing skills will help you be successful in projects at Turing and in the workplace. Learning to pair is about establishing a relationship with the person you’re working with. This starts with breaking down communication barriers and building trust within the working relationship. This session covers how to DTR (Define the Relationship), strategies for upholding expectations with your partner(s), how to have difficult conversations when group members break expectations, and how to give each other feedback. 
 
-Refer to the [Learning to Pair slides](INSERTLINK) for this lesson. 
+Refer to the [Learning to Pair slides](https://github.com/turingschool/professional_skills/blob/master/files/dtr-accountability.pdf) for this lesson. 
 
 ##Learning Objectives:
 
@@ -17,7 +17,7 @@ Refer to the [Learning to Pair slides](INSERTLINK) for this lesson.
 * Include a DTR memo in your portfolio for at least one project 
 
 ##Defining the Relationship (DTR)
-DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [Guiding Questions template](INSERTLINK) to guide the conversation. 
+DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [Guiding Questions template](https://github.com/turingschool/professional_skills/blob/master/dtr-guiding-questions-template.md) to guide the conversation. 
 
 Establishing a relationship with your mentor should also include a DTR. Here’s a cheatsheet for planning that conversation. 
 
