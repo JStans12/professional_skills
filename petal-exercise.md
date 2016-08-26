@@ -2,7 +2,7 @@
 
 What is important to you? What goals do you have for yourself? What kind of services do you want to provide? Where do you see your career going? Utilizing a job-hunting strategy that has an 86% success rate, you’ll complete a self-inventory to answer those questions and more in this session adapted from [What Color is Your Parachute](http://www.jobhuntersbible.com/) by Richard N. Bolles
 
-Reference the [Flower Exercise slides](INSERTLINK) for this session
+Reference the [Flower Exercise slides](https://github.com/turingschool/professional_skills/blob/master/files/petal-exercise.pdf) for this session
 
 ##Learning Objectives:
 * Describe yourself in 6 different ways to potential interviewers
@@ -47,7 +47,7 @@ All 7 aspects are important for your job search; Why?
 * This picture is the most complete of you and defining these aspects will lead you to your dream job
 
 ###Tools
-Complete [these worksheets](INSERTLINK) to fulfill the brainstorming stages of the Flower Exercise
+Complete [these worksheets](https://github.com/turingschool/professional_skills/blob/master/files/flower-exercise-worksheets.pdf) to fulfill the brainstorming stages of the Flower Exercise
 
 * Petal #1: Favorite Knowledges And/Or Fields of Interest
 	* Goal: Summarize everything you know; Must have: knowledge from past experiences; Bonus: What you would like to learn
