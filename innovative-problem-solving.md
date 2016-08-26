@@ -2,7 +2,7 @@
 
 “Creativity” can sometimes be an intimidating concept. This session provides you with a framework to follow to unlock your creativity and develop a strategy to address any problem in an innovative way. 
 
-Reference the [Innovative Problem-Solving Slides](INSERTLINK) for this session
+Reference the [Innovative Problem-Solving Slides](https://github.com/turingschool/professional_skills/blob/master/files/innovative-problem-solving.pdf) for this session
 
 ##Learning Objectives:
 * Develop a framework for building your creativity
@@ -64,7 +64,7 @@ Clearly defining objectives for finding a creative solution to a specific proble
 	* What if? (What if I tried something different that hasn’t been done before?)
 	* Why not? (Consider constraints) 
 * Extension:
-	* Complete the [Creativity Brief](INSERTLINK) or [Creativity Brief Lite](INSERTLINK) before the personal project starts
+	* Complete the [Creativity Brief](https://github.com/turingschool/professional_skills/blob/master/creativity-brief.md) or [Creativity Brief Lite](https://github.com/turingschool/professional_skills/blob/master/creativity-brief-lite.md) before the personal project starts
 
 ##Activity #2: Prepare  
 
@@ -93,7 +93,7 @@ Clearly defining objectives for finding a creative solution to a specific proble
 
 ##Discuss Discover, Ignite, and Launch
 * Discover: Explore every avenue that might lead to creative ideas. Break free of the straitjacket of “We’ve always done it that way” or “This is our usual approach.” 
-* Ignite: Allow your ideas to flow freely in order to see what sparks. Follow the [12 Ways to Strike Sparks of Creativity](INSERTLINK) or the 8 Commandments of Ideation to turn those sparks into fires.
+* Ignite: Allow your ideas to flow freely in order to see what sparks. Follow the [12 Ways to Strike Sparks of Creativity](https://github.com/turingschool/professional_skills/blob/master/twelve-ways-to-strike.md) or the 8 Commandments of Ideation to turn those sparks into fires.
 * Launch: Put your creative ideas into action by selecting your best ideas, determine key metrics for measurement, and build an action plan to bring your ideas to life.   
 
 
