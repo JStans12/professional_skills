@@ -18,33 +18,34 @@ Professional Development is divided into 3 areas in Turing's curriculum:
 ## Overview
 ### Module 1:
 * [Learning to Pair](#learning-to-pair)
-* Personal Branding
-* StrengthsFinder (optional)
+* [Personal Branding - Part I](#personal-branding-1)
+* [Personal Branding - Part II](#personal-branding-2)
+* [StrengthsFinder (optional)](#strengths-finder-1)
 
 ### Module 2:
-* Communicating as a team, including agile practices
-* Finding job opportunities
-* Networking
-* StrengthsFinder (optional)
+* [Collaborative Communication for Working in Teams](#collaborative-communication-teams)
+* [Project Management and Agile Practices](#project-management-agile)
+* [Finding Job Opportunities](#finding-job-opportunities)
+* [Networking](#networking)
+* [StrengthsFinder (optional)](#strengths-finder-2)
 
 ### Module 3:
-* Building creativity
-* Reflections and goal-planning on professional development
-* Interviewing
-* Job-Planning Strategies
-* StrengthsFinder (optional)
+* [Job-Search Strategies](#job-search-strategies)
+* [Innovative Problem-Solving Strategies](#problem-solving-strategies)
+* [What Color Is Your Parachute? Flower Exercise](#what-color-is-your-parachute)
+* [Interviewing](#interviewing)
+* [StrengthsFinder (optional)](#strengths-finder-3) - tbd
 
 ### Module 4:
-* Personal Branding
-* Negotiations
-* StrengthsFinder (optional)
+* [Negotiations](#negotiations)
+* [Telling Your Story](#telling-your-story)
+* [StrengthsFinder (optional)](#strengths-finder-4) - tbd
 
 ## Breakdown:
 ## Module One:
 
-### [Personal Branding Part I](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md) (led by Employment Coordinator)
+### <a name="personal-branding-1"></a>[Personal Branding Part I](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md) (led by Employment Coordinator)
 Learning how to tell your story based on the channel you’re using to communicate is important for successfully conveying how you’ll contribute to a team and the tech community. Think about how you’d like to contribute your prior experience and career to the tech community. How would you like to use your skills as a software developer? In this workshop we’ll talk through how the resume, LinkedIn, Twitter, and Github all contribute to telling your story and will support your job search. 
-
 #### Deliverables:
 At the end of this workshop you’ll have a resume specific for the tech industry, LinkedIn profile, Twitter account, and GitHub profile. 
 
@@ -52,16 +53,16 @@ At the end of this workshop you’ll have a resume specific for the tech industr
 We do a lot of paired projects at Turing. Why? Because the software industry emphasizes pairing within its teams -- we want to mimic the industry as much as possible. To prepare you for working with others on big projects with tight deadlines, this session covers DTR (Defining the Relationship), a conversation that will help you set expectations with your partner(s), how to uphold those expectations, how to have crucial conversations when expectations are broken, how to give each other effective feedback, and how to take feedback
 Follow-up small groups with FEE: Continuing to build effective pairing relationships 
 
-####Deliverable: 
+#### Deliverable: 
 Include a DTR memo in portfolio
 
-###[Personal Branding Part II](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p2.md) (led by Employment Coordinator)
+### <a name="personal-branding-2"></a>[Personal Branding Part II](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p2.md) (led by Employment Coordinator)
 As a group we will review each other’s virtual branding collateral to see how your story is received, where it needs improvement, and how it can be tied together with your personal site. 
 
 #### Deliverables:
 Copy and a plan for a personal site.
 
-### StrengthsFinder (led by Community Affairs Manager)
+### <a name="strengths-finder-1"></a>StrengthsFinder (led by Community Affairs Manager)
 In Module 1, students have the opportunity to take the StrengthsFinder Assessment to gain understanding of their top 5 strengths and how to use them at Turing, in their job search, and in their career as a software developer. If students opt in, they will need to have the assessment completed by the beginning of week 2 and participate in individual reflections and 1-on-1 and small group discussions throughout this module and the following modules. 
 		
 #### Module 1 activities include:
@@ -74,13 +75,13 @@ Reflection on Signature Themes immediately after taking the assessment
 Reflection on Signature Themes and goals for the next module at the end of the module
 
 ## Module Two:
-### [Finding Opportunities](https://github.com/turingschool/professional_skills/blob/master/finding_opportunities.md) (led by Employment Coordinator)
+### <a name="finding-job-opportunities"></a>[Finding Job Opportunities](https://github.com/turingschool/professional_skills/blob/master/finding_opportunities.md) (led by Employment Coordinator)
 Looking for jobs on sites like Monster.com, Indeed, and other career listing sites can be discouraging and ineffective. Let’s talk about how to find a job without relying on your resume or job postings. 
 
 #### Deliverable:
 Job tracking/company list setup to add five companies with contact information to the tracker.
 
-### [Collaborative Communication for working in teams](https://github.com/turingschool/professional_skills/blob/master/collaborative-communication.md) - Whole group BEE M2 (led by Community Affairs Manager)
+### <a name="collaborative-communication-teams"></a>[Collaborative Communication for Working in Teams](https://github.com/turingschool/professional_skills/blob/master/collaborative-communication.md) - Whole group BEE M2 (led by Community Affairs Manager)
 Reflecting on feedback from Rush Hour, creating goals for Little Shop; followed up by small groups for BEE
 
 #### Deliverable:
@@ -88,16 +89,16 @@ Two paragraph reflection in your portfolio on:
      1. Details on project management strategies you used in your group projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
      2. How you incorporated feedback from your team members and what you learned about yourself in the process
 
-### Project Management & Agile Practices FEE M2 - Whole-Group (led by Community Affairs Manager)
+### <a name="project-management-agile"></a>Project Management & Agile Practices FEE M2 - Whole-Group (led by Community Affairs Manager)
 In this session, we’ll discuss strategies for how to effectively manage projects in different iterations as well as continuing to refine communication skills when working with different team members. 
 
-### [Networking](https://github.com/turingschool/professional_skills/blob/master/networking.md) (led by Employment Coordinator)
+### <a name="networking"></a>[Networking](https://github.com/turingschool/professional_skills/blob/master/networking.md) (led by Employment Coordinator)
 Few people like the idea of networking, however building relationships with people will impact the success of a healthy job search. Learn how to build the right relationships, what networking looks like for an introvert vs. an extrovert, and how to take turn a conversation into an interview.
 
 #### Deliverable:
 Cold outreach email to someone off of the job tracker to request an informational interview and three events picked out to attend in the upcoming weeks.
 
-### StrengthsFinder (led by Community Affairs Manager)
+### <a name="strengths-finder-2"></a>StrengthsFinder (led by Community Affairs Manager)
 For students who have opted into StrengthsFinder, they will continue exploring their strengths by analyzing successes and strengths in the behavior of others
 
 #### Module 2 activities include:
@@ -108,35 +109,38 @@ Complementary Partners
 Reflection on Signature Themes and goals for the next module at the end of the module
 
 ## Module Three:
-### [Job Search Strategy Planning](https://github.com/turingschool/professional_skills/blob/master/job_search_strategy.md) (led by Employment Coordinator)
+### <a name="job-search-strategies"></a>[Job Search Strategy Planning](https://github.com/turingschool/professional_skills/blob/master/job_search_strategy.md) (led by Employment Coordinator)
 It’s easy to procrastinate the job search, in order to keep on track it will be important to build out a realistic strategy and timeline for the search. We want offers before we graduate, let’s figure out how to achieve that with a reliable plan!
 
 #### Deliverable:
 Calendar with daily, weekly, and monthly goals
 
-### [Innovative Problem-Solving Strategies](https://github.com/turingschool/professional_skills/blob/master/innovative-problem-solving.md) - Whole group (led by Community Affairs Manager)
+### <a name="problem-solving-strategies"></a>[Innovative Problem-Solving Strategies](https://github.com/turingschool/professional_skills/blob/master/innovative-problem-solving.md) - Whole group (led by Community Affairs Manager)
 Does the idea of creativity intimidate you? Do personal projects feel daunting? In this session, we’ll break down a step-by-step framework to problem-solving to drive creativity in everyday habits and in the BEE Mod. 3 personal project.  
 
 #### Deliverable:
 This session leads into the brainstorming phase for the BEE Mod. 3 personal project, so the deliverable is a successfully executed personal project. 
 
-### [Flower Exercise from What Color is Your Parachute?](https://github.com/turingschool/professional_skills/blob/master/petal-exercise.md) - Whole group (led by Community Affairs Manager)
+### <a name="what-color-is-your-parachute"></a>[Flower Exercise from What Color is Your Parachute?](https://github.com/turingschool/professional_skills/blob/master/petal-exercise.md) - Whole group (led by Community Affairs Manager)
 In this session, we’ll discuss 7 different aspects of your personality, goals, and preferences using a tried and true method from What Color is Your Parachute? a premier job-searching handbook. By looking inward at each of these “petals” of yourself, you will be able to define what is important to you in the job search to find a job that is the right fit for you. 
 
 #### Deliverable: 
 Flower Exercise completed for week 1 of Mod. 4
 
-### Interviewing (led by Employment Coordinator)
+### <a name="interviewing"></a>Interviewing (led by Employment Coordinator)
 The interview process for a Software Developer role is a bit different than a traditional interview. It’s essential to know when to say you don’t know how to do something, feel comfortable whiteboarding upon request, and be confident in your skills/abilities. In this workshop we’ll prep for those things!
 
 #### Deliverable:
 Schedule a mock interview with a mentor
 
+### <a name="strengths-finder-3"></a>Strengths-Finder
+
+
 ## Module Four: 
-### [Negotiations](https://github.com/turingschool/professional_skills/blob/master/negotiations.md) (led by Partnership Manager)
+### <a name="negotiations"></a>[Negotiations](https://github.com/turingschool/professional_skills/blob/master/negotiations.md) (led by Partnership Manager)
 So few people negotiate comfortably or even try. Negotiation is an important part in growing your career. Let’s talk about how to negotiate with confidence and respect to ensure you’re appropriately advocating for your value.
 
-### Telling Your Story, using the completed Flower Exercise (led by Community Affairs Manager)
+### <a name="telling-your-story"></a>Telling Your Story, using the completed Flower Exercise (led by Community Affairs Manager)
 As a follow-up to the Flower Exercise session from Module 3, we’ll discuss how to use these pieces to create a succinct and memorable description of who you are and what kind of developer you are as well as how to communicate that to prospective employers. This session also touches on personal branding as we’ll look at using our story in LinkedIn and on resumes. 
 
 #### Deliverable: 
