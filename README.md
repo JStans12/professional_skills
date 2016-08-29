@@ -17,7 +17,7 @@ Professional Development is divided into 3 areas in Turing's curriculum:
 
 ## Overview
 ### Module 1:
-* Learning to Pair
+* [Learning to Pair](#learning-to-pair)
 * Personal Branding
 * StrengthsFinder (optional)
 
@@ -48,7 +48,7 @@ Learning how to tell your story based on the channel you’re using to communica
 #### Deliverables:
 At the end of this workshop you’ll have a resume specific for the tech industry, LinkedIn profile, Twitter account, and GitHub profile. 
 
-###[Learning how to Pair](https://github.com/turingschool/professional_skills/blob/master/learning-to-pair.md) (led by Community Affairs Manager)
+### <a name="learning-to-pair"></a>[Learning how to Pair](https://github.com/turingschool/professional_skills/blob/master/learning-to-pair.md) (led by Community Affairs Manager)
 We do a lot of paired projects at Turing. Why? Because the software industry emphasizes pairing within its teams -- we want to mimic the industry as much as possible. To prepare you for working with others on big projects with tight deadlines, this session covers DTR (Defining the Relationship), a conversation that will help you set expectations with your partner(s), how to uphold those expectations, how to have crucial conversations when expectations are broken, how to give each other effective feedback, and how to take feedback
 Follow-up small groups with FEE: Continuing to build effective pairing relationships 
 
