@@ -2,18 +2,10 @@
 
 During your time at Turing School of Software and Design, you’ll be preparing for your first position as a software developer. In order to kick off a healthy and sustainable career as a software developer, it will be essential to learn how to talk about what you’ll contribute to a dev team, learn how to navigate your job search, and then land your first developer job. Throughout each module you’ll have workshops with the Community Affairs Manager, Employment Coordinator, as well as the Partnership Manager to effectively prepare for your career. 
 
-Resources and Lessons are structured according to mindsets that we would like to see developed in our students:
-
-* Growth
-* Engagement
-* Agency
-* Empathy
-* Grit
-
 Professional Development is divided into 3 areas in Turing's curriculum:
-* [Gear Up](https://github.com/turingschool/gear-up) (Beth Sebian, Teaching Assistant)
 * PROtocol Sessions, information listed below (Community Affairs Manager)
 * Professional Development Sessions, information listed below (Partnerships Manager/Employment Coordinator)
+* [Gear Up](https://github.com/turingschool/gear-up) (Beth Sebian, Teaching Assistant)
 
 ## Overview
 ### Module 1:
