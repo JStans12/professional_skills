@@ -7,7 +7,7 @@ Why might a strengths assessment help you? Check out these resources:
 * [Article: How to Hire like Google and Facebook: Evaluating Candidates Beyond Their Technical Abilites](http://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#d8f2a234f156)
 
 ## StrengthsFinder Development Framework
-![StrengthsDevelopment](images/StrengthsDevelopment.png)
+![StrengthsDevelopment](https://github.com/turingschool/professional_skills/blob/master/images/StrengthsDevelopment.png)
 
 ## Module One Activities
 
