@@ -10,6 +10,8 @@ Why might a strengths assessment help you? Check out these resources:
 ![StrengthsDevelopment](https://github.com/turingschool/professional_skills/blob/master/images/StrengthsDevelopment.png)
 
 ## Module One Activities
+Module One's focus is on the Discover/Awareness piece of the Strengths Development Framework:
+![Discover-Awareness](
 
 * Take the assessment: If you'd like to take the StrengthsFinder assessment, contact the Community Affairs Manager to get an access code. You'll take the assessment [here](http://www.strengthsquest.com/home.aspx)
    Facilitation: By end of week 1
