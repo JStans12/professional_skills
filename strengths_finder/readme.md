@@ -4,7 +4,7 @@ Turing provides the opportunity for every student to take the StrengthsFinder as
 
 *Why might a strengths assessment help you? Check out these resources:*
 * [How to Hire like Google and Facebook: Evaluating Candidates Beyond Their Technical Abilites](http://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#d8f2a234f156)
-* [Research Paper on Clifton StrengthsFinder and Student Strengths Development](files/The_Clifton_StrengthsFinder_and_Student_Strengths_Development.pdf)
+* [Research Paper on Clifton StrengthsFinder and Student Strengths Development](https://github.com/turingschool/professional_skills/blob/master/files/The_Clifton_StrengthsFinder_and_Student_Strengths_Development.pdf)
 
 ## StrengthsFinder Development Framework
 ![StrengthsDevelopment](https://github.com/turingschool/professional_skills/blob/master/images/StrengthsDevelopment.png)
