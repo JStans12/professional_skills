@@ -1,10 +1,10 @@
 # StrengthsFinder
 
-* [Guidelines for signing up for StrengthsFinder]
-* [StrengthsFinder Themes: Adapted for Professional Developers](https://docs.google.com/document/d/1D4AE3y8yVXx5PI7wtPcbdTEz-IbXl6CJm_EZAwkTHew/edit?usp=sharing)
+Turing provides the opportunity for every student to take the StrengthsFinder assessment to use as tool in their professional development. Students are strongly encouraged to take this assessment and participate in this development. The StrengthsFinder curriculum is adapted from StrengthsQuest and used to further your development through each module at Turing through personal reflections, 1-on-1 discussions with the Community Affairs Manager, and small group discussions with others in your cohort. 
 
 *Why might a strengths assessment help you? Check out these resources:*
-* [Article: How to Hire like Google and Facebook: Evaluating Candidates Beyond Their Technical Abilites](http://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#d8f2a234f156)
+* [How to Hire like Google and Facebook: Evaluating Candidates Beyond Their Technical Abilites](http://www.forbes.com/sites/ashoka/2014/04/15/how-to-hire-like-google-and-facebook-evaluating-candidates-beyond-their-technical-ability/#d8f2a234f156)
+* 
 
 ## StrengthsFinder Development Framework
 ![StrengthsDevelopment](https://github.com/turingschool/professional_skills/blob/master/images/StrengthsDevelopment.png)
