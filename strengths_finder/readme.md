@@ -14,16 +14,20 @@ Module One's focus is on the Discover/Awareness piece of the Strengths Developme
 ![Discover-Awareness](https://github.com/turingschool/professional_skills/blob/master/images/Discover-Awareness.png)
 
 * Take the assessment: If you'd like to take the StrengthsFinder assessment, contact the Community Affairs Manager to get an access code. You'll take the assessment [here](http://www.strengthsquest.com/home.aspx)
-   Facilitation: By end of week 1
+   
+  Facilitation: By end of week 1
 
 * [Verifying My Signature Themes]
-   Facilitation: After taking the assessment and before first 1-on-1 with the Community Affairs Manager
+   
+  Facilitation: After taking the assessment and before first 1-on-1 with the Community Affairs Manager
 
 * [Exploring My Signature Themes]
-   Facilitation: During 1-on-1s with the Community Affairs Manager
+  
+  Facilitation: During 1-on-1s with the Community Affairs Manager
 
 * [The Challenge of Affirming My Strengths]
-   Facilitation: Small Groups during week 5 or 6
+   
+  Facilitation: Small Groups during week 5 or 6
 
 ### Module One Deliverable:
 
