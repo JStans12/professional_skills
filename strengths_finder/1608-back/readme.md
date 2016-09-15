@@ -1,3 +1,5 @@
 ## End of Module Deliverable
 
-If you participate in StrengthsFinder, you will submit a 1-paragraph reflection on your development at the end of each module. 
+Add your statements on how to overcome challenges for each strength and your goals for next module using your strengths here via Pull Request. The final submission should look like this:
+
+* Student Name: [Affirming my Strengths](https://gist.github.com/username/link-to-my-worksheet) and [Goals for Module 2](https://gist.github.com/username/link-to-my-gist)
