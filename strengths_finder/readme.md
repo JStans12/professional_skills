@@ -35,8 +35,24 @@ Module One's focus is on the Discover/Awareness piece of the Strengths Developme
 
 ## Module Two Activities
 
+* **[Group Dynamics]**
+
+### Module Two Deliverable:
+
 * 
 
 ## Module Three Activities
 
+* **[Complementary Partners]**
+
+### Module Three Deliverable:
+
+* 
+
 ## Module Four Activities
+
+* **[Moving Beyond Barrier Labels]**
+
+### Module Four Deliverable:
+
+* 
