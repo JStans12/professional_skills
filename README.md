@@ -10,6 +10,7 @@ Professional Development is divided into 3 areas in Turing's curriculum:
 ## Overview
 ### Module 1:
 * [Learning to Pair](#learning-to-pair)
+* [Feedback - Part I]
 * [Personal Branding - Part I](#personal-branding-1)
 * [Personal Branding - Part II](#personal-branding-2)
 * [StrengthsFinder (optional)](#strengths-finder-1)
@@ -17,20 +18,22 @@ Professional Development is divided into 3 areas in Turing's curriculum:
 ### Module 2:
 * [Collaborative Communication for Working in Teams](#collaborative-communication-teams)
 * [Project Management and Agile Practices](#project-management-agile)
+* [Feedback - Part II]
 * [Finding Job Opportunities](#finding-job-opportunities)
 * [Networking](#networking)
 * [StrengthsFinder (optional)](#strengths-finder-2)
 
 ### Module 3:
 * [Job-Search Strategies](#job-search-strategies)
-* [Innovative Problem-Solving Strategies](#problem-solving-strategies)
+* [Innovation & Creative Problem-Solving](#innovation-creative-problem-solving)
 * [What Color Is Your Parachute? Flower Exercise](#what-color-is-your-parachute)
 * [Interviewing](#interviewing)
 * [StrengthsFinder (optional)](#strengths-finder-3) - tbd
 
 ### Module 4:
 * [Negotiations](#negotiations)
-* [Telling Your Story](#telling-your-story)
+* Flower Exercise Follow-Up: Overcoming Job-Hunting Impostor's Syndrome
+* Blog Writing & Peer Review
 * [StrengthsFinder (optional)](#strengths-finder-4) - tbd
 
 ## Breakdown:
@@ -107,7 +110,7 @@ It’s easy to procrastinate the job search, in order to keep on track it will b
 #### Deliverable:
 Calendar with daily, weekly, and monthly goals
 
-### <a name="problem-solving-strategies"></a>[Innovative Problem-Solving Strategies](https://github.com/turingschool/professional_skills/blob/master/innovative-problem-solving.md) - Whole group (led by Community Affairs Manager)
+### <a name="innovation-creative-problem-solving"></a>[Innovative Problem-Solving Strategies](https://github.com/turingschool/professional_skills/blob/master/innovative-problem-solving.md) - Whole group (led by Community Affairs Manager)
 Does the idea of creativity intimidate you? Do personal projects feel daunting? In this session, we’ll break down a step-by-step framework to problem-solving to drive creativity in everyday habits and in the BEE Mod. 3 personal project.  
 
 #### Deliverable:
