@@ -13,7 +13,7 @@
 
 **Time:** 40 mins. 
 
-Size: Groups of 4-6
+**Size:** Groups of 4-6
 
 [Worksheets](https://docs.google.com/document/d/1st3WH7cqXZqiXqYwYqiGbXrYf4st0hdeHvBwVIOD6SQ/edit?usp=sharing) Make your own copy by going to File>Make a copy. Title that copy "Your Name, Cohort: Challenge of Affirming My Strengths"
 
