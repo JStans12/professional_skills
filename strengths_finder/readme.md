@@ -31,7 +31,9 @@ Module One's focus is on the Discover/Awareness piece of the Strengths Developme
 
 ### Module One Deliverable:
 
-* 
+* Statements on how to overcome challenges for each strength
+* Goals for next module on how to use strengths
+
 
 ## Module Two Activities
 
