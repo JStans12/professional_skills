@@ -10,7 +10,6 @@ Refer to the [Learning to Pair slides](https://github.com/turingschool/professio
 * Define your own expectations in a working relationship
 * Apply strategies to hold your partners accountable
 * Demonstrate how to address broken expectations
-* Describe how to give each other feedback
 
 ##Deliverable:
 
@@ -37,7 +36,9 @@ Take time to define your expectations:
 * Memo: Documenting your DTR in a memo will provide you with a record of what you discussed to reference as the project goes on. Make it into a gist so that everyone from the group has it. 
 * Stand Up: Start each work session discussing what you are each working on that day and what goals you hope to accomplish at the end of the work session.
 * Retro: Hold regular retros to discuss what’s going well, what’s not going well, and what you should change as a group to make your project and team more successful.
+	* Check out this example of [retro notes](https://docs.google.com/document/d/1qX18S_Ok2IQA5kRB2vdblF61XbO3nX-oTWFkfgA0L8k/edit?usp=sharing)
 * Re-DTR: In longer projects, review and readjust expectations midway through the project.
+
 
 ###Compromising with each others’ expectations
 * Remember lessons from Improv:
@@ -50,6 +51,7 @@ Take time to define your expectations:
 	* This is a fallacy because it discounts all the important skills you both bring to your partnership. 
 	* If you don’t feel as strong in your technical skills, what are your strengths? How do your strengths balance out your partner’s? How can you contribute to the project management? What do you want to learn during this project to improve your technical skills? 
 	* If you feel like you have stronger technical skills, teaching your partner will help you solidify these skills. Alternatively, what can you learn from your partner? 
+	* Beware of the "Developer's Ego" -- learning to ask questions is an important skill for the workplace.
 * Bottom line: Paired project code is owned by the entire team. There is no room (and no time, considering your tight deadlines) for egos -- you are here to support each other. 
 
 ###Addressing Broken Expectations
