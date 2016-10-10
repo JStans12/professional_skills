@@ -14,12 +14,13 @@ Professional Development is divided into 3 areas in Turing's curriculum:
 * [Feedback - Part I]
 	* Portfolio Deliverable: Feedback from and to your partners in your projects (listed under "Feedback/Community" on portfolios repo)
 * [Personal Branding - Part I](#personal-branding-1)
-	* Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
-	* LinkedIn profile with a summary, descriptions under experience, and Turing under education
+	* Portfolio Deliverables:
+		* Resume with a summary statement and placeholder for projects and skills to be obtained during Turing
+		* LinkedIn profile with a summary, descriptions under experience, and Turing under education
 * [Personal Branding - Part II](#personal-branding-2)
-	* Copy for your personal website
+	* Portfolio Deliverable: Copy for your personal website
 * [StrengthsFinder (optional)](#strengths-finder-1)
-	* Reflections on how you'll use your strengths next module
+	* Reflections on how you'll use your strengths next module delivered to Allison
 
 ### Module 2:
 * [Collaborative Communication for Working in Teams](#collaborative-communication-teams)
