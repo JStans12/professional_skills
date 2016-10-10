@@ -106,7 +106,9 @@ Now that you’ve identified a motivation behind your partner’s behavior, how 
 			* “You made the decision because you couldn’t reach me. Let’s find 3 mutual times we can check in throughout the day.”
 		* Create action steps:
 			* Re-DTR: who will do what and when?
+
 ###Practice
+
 **Scenario:** During DTR, Partner A and Partner B decided that you would have an end of day retro to debrief how the worktime went. But at the end of the first day, Partner A left abruptly right after Wrap Up and didn’t meet with Partner B to retro on the tasks. Then in day two, Partner A doesn’t have a task finished that was promised to be done. Partner B is worried about time and how to proceed when Partner A seems unreliable.
 * What assumptions need to be addressed?
 * How will you conduct the conversation?
