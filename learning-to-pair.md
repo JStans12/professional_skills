@@ -16,7 +16,7 @@ Refer to the [Learning to Pair slides](https://github.com/turingschool/professio
 * Include a DTR memo in your portfolio for at least one project 
 
 ##Defining the Relationship (DTR)
-DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [Guiding Questions template](https://github.com/turingschool/professional_skills/blob/master/dtr-guiding-questions-template.md) to guide the conversation. 
+DTR refers to a conversation each student has with group partner(s) before launching into a project. During this conversation, group members set expectations for how to work together. Use this [DTR Guiding Questions & Memo template](https://docs.google.com/document/d/1zMtgWhODQuP3KBNhrg6PtmPUkw0DIskqgggeyEzYZi4/edit?usp=sharing) to guide the conversation. 
 
 Establishing a relationship with your mentor should also include a DTR. Here’s a cheatsheet for planning that conversation. 
 
