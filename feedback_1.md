@@ -18,7 +18,7 @@ Think about the last time you received feedback
 * How useful was the feedback you received?
 
 ###Three Triggers
-Read Chapter One from Thanks for the Feedback
+Read [Chapter One from Thanks for the Feedback](files/Thanks For the Feedback_Ch 1.pdf)
 
 Discuss: 
 
