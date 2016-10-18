@@ -12,7 +12,7 @@
 Your project template:
 #### [Project Title]
 
-#### Pitch
+```#### Pitch
 
 1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
 
@@ -31,7 +31,7 @@ Your project template:
 #### Integrations (Back End Only)
 
 * Which APIs will you use?
-* Which OAuth integration are you planning to use?
+* Which OAuth integration are you planning to use?```
 
 ###Opening
 Why Creativity? What is the [Disciplined Dreaming](https://www.amazon.com/Disciplined-Dreaming-Proven-Breakthrough-Creativity/dp/1611203074) Framework? 
