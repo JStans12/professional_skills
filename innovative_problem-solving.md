@@ -33,8 +33,8 @@ Your project template:
 * Which APIs will you use?
 * Which OAuth integration are you planning to use?
 
-
-###Why Creativity? What is the [Disciplined Dreaming](https://www.amazon.com/Disciplined-Dreaming-Proven-Breakthrough-Creativity/dp/1611203074) Framework? 
+###Opening
+Why Creativity? What is the [Disciplined Dreaming](https://www.amazon.com/Disciplined-Dreaming-Proven-Breakthrough-Creativity/dp/1611203074) Framework? 
 
 Within the Disciplined Dreaming framework, you will follow 5 steps to cultivate creativity for your personal or side projects:
 
@@ -97,7 +97,7 @@ Don’t be linear; Let your imagination run wild with inspiration for this proje
 
 Try some of these techniques: 
 
-* 10 ways to strike sparks of creativity
+* [10 ways to strike sparks of creativity](https://github.com/turingschool/professional_skills/blob/master/ten_ways_to_strike_sparks_of_creativity.md)
 * 8 rules of ideation
 * SCAMPER
 * The Opposite
