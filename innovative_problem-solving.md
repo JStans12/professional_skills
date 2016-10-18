@@ -12,26 +12,26 @@
 Your project template:
 #### [Project Title]
 
-```#### Pitch
+				#### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+				1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
 
-#### Problem
+				#### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+				1-3 sentences describing the problem that you are trying to solve.
 
-#### Solution
+				#### Solution
 
-1-3 sentences describing how your application will solve that problem.
+				1-3 sentences describing how your application will solve that problem.
 
-#### Target Audience
+				#### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+				1-3 sentences describing what type of user your app would be applicable to.
 
-#### Integrations (Back End Only)
+				#### Integrations (Back End Only)
 
-* Which APIs will you use?
-* Which OAuth integration are you planning to use?```
+				* Which APIs will you use?
+				* Which OAuth integration are you planning to use?
 
 ###Opening
 Why Creativity? What is the [Disciplined Dreaming](https://www.amazon.com/Disciplined-Dreaming-Proven-Breakthrough-Creativity/dp/1611203074) Framework? 
