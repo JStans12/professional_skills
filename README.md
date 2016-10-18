@@ -122,11 +122,11 @@ It’s easy to procrastinate the job search, in order to keep on track it will b
 #### Deliverable:
 Calendar with daily, weekly, and monthly goals
 
-### <a name="innovation-creative-problem-solving"></a>[Innovative Problem-Solving Strategies](https://github.com/turingschool/professional_skills/blob/master/innovative-problem-solving.md) - Whole group (led by Community Affairs Manager)
+### <a name="innovation-creative-problem-solving"></a>[Innovative Problem-Solving Strategies](https://github.com/turingschool/professional_skills/blob/master/innovative_problem-solving.md) - Whole group (led by Community Affairs Manager)
 Does the idea of creativity intimidate you? Do personal projects feel daunting? In this session, we’ll break down a step-by-step framework to problem-solving to drive creativity in everyday habits and in the BEE Mod. 3 personal project.  
 
 #### Deliverable:
-This session leads into the brainstorming phase for the BEE Mod. 3 personal project, so the deliverable is a successfully executed personal project. 
+Completed project template and pitch. 
 
 ### <a name="what-color-is-your-parachute"></a>[Flower Exercise from What Color is Your Parachute?](https://github.com/turingschool/professional_skills/blob/master/petal-exercise.md) - Whole group (led by Community Affairs Manager)
 In this session, we’ll discuss 7 different aspects of your personality, goals, and preferences using a tried and true method from What Color is Your Parachute? a premier job-searching handbook. By looking inward at each of these “petals” of yourself, you will be able to define what is important to you in the job search to find a job that is the right fit for you. 
