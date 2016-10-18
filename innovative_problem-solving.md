@@ -99,7 +99,7 @@ Try some of these techniques:
 
 * [10 ways to strike sparks of creativity](https://github.com/turingschool/professional_skills/blob/master/ten_ways_to_strike_sparks_of_creativity.md)
 * [8 rules of ideation](https://github.com/turingschool/professional_skills/blob/master/eight_rules_of_ideation.md)
-* SCAMPER
+* [SCAMPER](https://github.com/turingschool/professional_skills/blob/master/scamper.md)
 * [The Opposite](https://github.com/turingschool/professional_skills/blob/master/the_opposite.md)
 
 ###Launch
