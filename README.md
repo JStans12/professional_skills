@@ -11,7 +11,7 @@ Professional Development is divided into 3 areas in Turing's curriculum:
 ### Module 1:
 * [Learning to Pair](#learning-to-pair)
 	* Portfolio Deliverable: DTR Memo from 1 paired project
-* [Feedback - Part I]
+* [Feedback - Part I](#feedback_1)
 	* Portfolio Deliverable: Feedback from and to your partners in your projects (listed under "Feedback/Community" on portfolios repo)
 * [Personal Branding - Part I](#personal-branding-1)
 	* Portfolio Deliverables:
@@ -57,6 +57,11 @@ Follow-up small groups with FEE: Continuing to build effective pairing relations
 
 #### Deliverable: 
 Include a DTR memo in portfolio
+
+### <a name="feedback_1"></a>[Feedback - Part I](https://github.com/turingschool/professional_skills/blob/master/feedback_1.md) (led by Community Affairs Manager)
+
+#### Deliverable: 
+Feedback for and from your project partners
 
 ### <a name="personal-branding-2"></a>[Personal Branding Part II](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p2.md) (led by Employment Coordinator)
 As a group we will review each other’s virtual branding collateral to see how your story is received, where it needs improvement, and how it can be tied together with your personal site. 
