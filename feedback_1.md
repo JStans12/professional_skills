@@ -108,6 +108,7 @@ Managing a conversation
 Create possibilities for how the feedback could be used. How can you acknowledge the root of the problem without feeling like you need to overhaul everything?
 	* Recognize the interests at play:
 		* Your partner wants to help you
+		* You want to help yourself
 	* Generate options that address your needs as well as the feedback giver’s
 	* Note: This is not a final determination on the feedback but rather a way to move forward
 
