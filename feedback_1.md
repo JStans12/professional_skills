@@ -83,7 +83,7 @@ Meet with your partner and discuss your Opening
 	* Ask yourself: what’s right? Why might they see this situation differently?
 	* Beware of your internal voice -- are you being triggered? 
 	* Paraphrasing what you hear:
-		* “What I’m hearing you say is that you observed me doing this…”
+		* “What I’m hearing you say is that I could work on this…”
 	* Acknowledging the other person’s feelings -- it’s hard to give feedback
 
 * Asserting: Mix of sharing, advocating, and expressing
