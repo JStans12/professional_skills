@@ -95,12 +95,13 @@ Meet with your partner and discuss your Opening
 * Process Moves: Diagnose, Describe, Propose
 Managing a conversation
 
-*What do you notice about this example?* 
-“We’re both making arguments, trying to persuade the other, but I don’t think either of us is listening to, or fully understanding, the other. I know I’m not doing a good enough job of trying to understand what your concerns are. So tell me more about why this is so important to you.”
+	*What do you notice about this example?* 
 
-There are 2 things to notice here:
-1. It’s an observation of an aspect of the process that is stuck or off track along with a suggestion for how to move forward
-2. It’s awkward -- probably no one would talk like this; this is an example of how you can referee a conversation -- pausing the action of the conversation to step back and consider how it’s going and how to correct course
+	“We’re both making arguments, trying to persuade the other, but I don’t think either of us is listening to, or fully understanding, the other. I know I’m not doing a good enough job of trying to understand what your concerns are. So tell me more about why this is so important to you.”
+
+	There are 2 things to notice here:
+	1. It’s an observation of an aspect of the process that is stuck or off track along with a suggestion for how to move forward
+	2. It’s awkward -- probably no one would talk like this; this is an example of how you can referee a conversation -- pausing the action of the conversation to step back and consider how it’s going and how to correct course
 
 * Problem-Solving:
 Create possibilities for how the feedback could be used. How can you acknowledge the root of the problem without feeling like you need to overhaul everything?
