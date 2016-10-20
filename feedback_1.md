@@ -6,6 +6,7 @@
 
 * Understand and recognize the three triggers of feedback
 * Define and understand the 3 different kinds of feedback
+* Describe the process of how to navigate a feedback conversation
 * Write out and deliver thoughtful feedback for your project partner
 
 ###Deliverable
