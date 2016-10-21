@@ -1,3 +1,0 @@
-# Personal Branding
-
-LinkedIn
