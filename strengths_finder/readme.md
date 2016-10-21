@@ -25,7 +25,7 @@ Module One's focus is on the Discover/Awareness piece of the Strengths Developme
   
   **Facilitation:** During 1-on-1s with the Community Affairs Manager
 
-* **[The Challenge of Affirming My Strengths](https://github.com/turingschool/professional_skills/blob/master/the-challenge-of-affirming-my-strengths.md)**
+* **[The Challenge of Affirming My Strengths](https://github.com/turingschool/professional_skills/blob/master/strengths_finder/challenge-of-affirming-my-strengths.md)**
    
   **Facilitation:** Small Groups during week 5 or 6
 
