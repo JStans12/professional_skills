@@ -11,11 +11,11 @@ Date Due:
 1. Describe the Desired Outcome (in one sentence)
 
 2. Define the Creativity Challenge:
-* What is the problem you are trying to solve?
-* What is the need for change?
-* What is a simile for the challenge?
-	* Example: “My app is like...the Uber of groceries” (Instacart)
-* List key observations and assumptions about the challenge.
+	* What is the problem you are trying to solve?
+	* What is the need for change?
+	* What is a simile for the challenge?
+		* Example: “My app is like...the Uber of groceries” (Instacart)
+	* List key observations and assumptions about the challenge.
 
 3. Situation Analysis:
 	* Past: What worked and what didn’t work, and why?
