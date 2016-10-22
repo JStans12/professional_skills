@@ -1,6 +1,6 @@
 ##The Creativity Brief
 
-When working on a solo project or a side project, try this Creativity Brief adapated from the Disciplined Dreaming framework to start your brainstorming and organize your ideas in order to define the problem you want to solve and how you will do it. This is an extended version of the brainstorming brief, but you can also check out the [Creativity Brief Lite]() for a more succint version. 
+When working on a solo project or a side project, try this Creativity Brief adapated from the Disciplined Dreaming framework to start your brainstorming and organize your ideas in order to define the problem you want to solve and how you will do it. This is an extended version of the brainstorming brief, but you can also check out the [Creativity Brief Lite](https://github.com/turingschool/professional_skills/blob/master/module_three/creativity_brief_lite.md) for a more succint version. 
 
 Project Name:
 
