@@ -16,7 +16,7 @@
 
 * [Trello](trello.com) lets you create boards that contain lists that contain cards. These boards can be shared with other Trello users. Cards have titles, descriptions, a message log for activities, checklists, due dates, labels, links, attachments and be assigned to other Trello users.
 Read more at http://www.andrewconnell.com/blog/project-task-management-using-trello-for-kanban-boards#6xIVHkfFaC2PfdHC.99
-![Trello doc](images/Trello.png)
+![Trello doc](https://github.com/turingschool/professional_skills/blob/master/images/Trello.png)
 
 * [Waffle.io](waffle.io): 
 ![Waffle doc](images/Waffle.io.png)
