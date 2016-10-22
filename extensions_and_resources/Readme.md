@@ -21,3 +21,6 @@ The agency mindset is about taking initiative...
 * [Combatting Impostor Syndrome](https://github.com/turingschool/professional_skills/blob/master/extensions_and_resources/impostor_syndrome.md)
 
 ## Growth
+
+* [Communication Skills](https://github.com/turingschool/professional_skills/blob/master/extensions_and_resources/communication_skills.md)
+* [Remote Communication](
