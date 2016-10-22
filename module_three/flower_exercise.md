@@ -9,7 +9,7 @@ Reference the [Flower Exercise slides](https://docs.google.com/presentation/d/1V
 * Describe in detail the kind of position you’re looking for
 
 ##Deliverable:
-**[Complete the Flower Exercise 1-pager and upload it to your end of module portfolio]()**
+**[Complete the Flower Exercise 1-pager and upload it to your end of module portfolio](files/Career Unit - The Flower Diagram.pages)**
 
 ###You’re not a Role
 When people have asked you what you do in the past, what have you said? “I was a construction worker.” “I was a marketing manager.” “I was a teacher.” Sound familiar? These kind of declarations lock you into a role; but you’re not a role, you’re a person with many skills and many experiences. 
