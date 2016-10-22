@@ -6,7 +6,7 @@
 ![ScatterSpoke](images/ScatterSpoke.png)
 
 * [Todoist](https://todoist.com): This site provides a way to create to-do lists complete with sub-tasks, sub-projects, and sharing and collaborating with others. You can create ways to prioritize your to-dos as well.
-![Todoist](images/Todoist.png)
+![Todoist](https://github.com/turingschool/professional_skills/blob/master/images/Todoist.png)
 
 * [Google Calendar](https://calendar.google.com/calendar/): Use your Google Calendar to keep track of events and due dates at Turing as well as make appointments with your team. 
 ![Google Calendar](images/GoogleCalendar.png)
