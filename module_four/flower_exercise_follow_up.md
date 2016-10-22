@@ -1,5 +1,7 @@
 #Flower Exercise Follow-Up: Overcoming Job-Hunting Impostor’s Syndrome 
 
+[Slides for this lesson]()
+
 ###Objectives
 * Identify your top 3 priorities in your first dev job.
 * Identify areas where you might place barriers on yourself in terms of the job search.
