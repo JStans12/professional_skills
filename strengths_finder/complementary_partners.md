@@ -37,7 +37,7 @@ In your groups, discuss the strength you all have in common, discuss how a partn
 * “Take over” where your strength leaves off
 * “Enhance” what you possess
 
-Use the [list of all StrengthsFinder strengths](files/BriefDescriptionsOfThemes.pdf) descriptions to help you. 
+Use the [list of all StrengthsFinder strengths](https://github.com/turingschool/professional_skills/blob/master/files/BriefDescriptionsOfThemes.pdf) descriptions to help you. 
 
 * Describe the strengths of your imagined partner(s)
 * How can you draw these strengths from others? 
