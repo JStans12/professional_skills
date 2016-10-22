@@ -23,4 +23,4 @@ The agency mindset is about taking initiative...
 ## Growth
 
 * [Communication Skills](https://github.com/turingschool/professional_skills/blob/master/extensions_and_resources/communication_skills.md)
-* [Remote Communication](
+* [Remote Communication](https://github.com/turingschool/professional_skills/blob/master/extensions_and_resources/remote_communication.md)
