@@ -24,6 +24,8 @@ Module One's focus is on the Discover/Awareness piece of the Strengths Developme
 * **[The Challenge of Affirming My Strengths](https://github.com/turingschool/professional_skills/blob/master/strengths_finder/challenge-of-affirming-my-strengths.md)**
    
 ## Module Two Activities
+Module Two's focus is on the Develop/Integrate piece of the Strengths Development Framework:
+![develop_integrate](https://github.com/turingschool/professional_skills/blob/master/images/develop_integrate.png)
 
 * **[Complementary Partners, Group Dynamics, & Your Strengths](https://github.com/turingschool/professional_skills/blob/master/strengths_finder/complementary_partners.md)**
 
