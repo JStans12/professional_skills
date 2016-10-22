@@ -100,7 +100,7 @@ Try some of these techniques:
 * [10 ways to strike sparks of creativity](https://github.com/turingschool/professional_skills/blob/master/module_three/ten_ways_to_strike_sparks_of_creativity.md)
 * [8 rules of ideation](https://github.com/turingschool/professional_skills/blob/master/module_three/eight_rules_of_ideation.md)
 * [SCAMPER](https://github.com/turingschool/professional_skills/blob/master/module_three/scamper.md)
-* [The Opposite](https://github.com/turingschool/professional_skills/blob/master/the_opposite.md)
+* [The Opposite](https://github.com/turingschool/professional_skills/blob/master/module_three/the_opposite.md)
 
 ###Launch
 Select your best ideas and put them into a plan using the project template
