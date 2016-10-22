@@ -3,7 +3,7 @@
 ## Recommended Apps for Effective Project & Time Management:
 
 * [ScatterSpoke](https://www.scatterspoke.com/): This site provides a streamlined and shareable way for teams to use agile practices and retro on projects in real time. 
-![ScatterSpoke](images/ScatterSpoke.png)
+![ScatterSpoke](https://github.com/turingschool/professional_skills/blob/master/images/ScatterSpoke.png)
 
 * [Todoist](https://todoist.com): This site provides a way to create to-do lists complete with sub-tasks, sub-projects, and sharing and collaborating with others. You can create ways to prioritize your to-dos as well.
 ![Todoist](https://github.com/turingschool/professional_skills/blob/master/images/Todoist.png)
