@@ -10,7 +10,7 @@ To aid in your professional growth for Turing and the workplace, this folder is 
 ## Agency
 The agency mindset is about taking initiative...
 
-### [Project Management & Organizational Resources](https://github.com/turingschool/professional_skills/blob/master/extensions_and_resources/project_management_resources.md)
+* [Project Management & Organizational Resources](https://github.com/turingschool/professional_skills/blob/master/extensions_and_resources/project_management_resources.md)
 
 ## Empathy
 
