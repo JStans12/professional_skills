@@ -12,7 +12,7 @@
 ![Google Calendar](https://github.com/turingschool/professional_skills/blob/master/images/GoogleCalendar.png)
 
 * [Google Keep](https://keep.google.com/u/0/): Keep track of notes, reminders, and to-do lists in one place that syncs with your Google accounts and that you can share with others to help hold yourself accountable. 
-![Google Keep](images/GoogleKeep.png)
+![Google Keep](https://github.com/turingschool/professional_skills/blob/master/images/GoogleKeep.png)
 
 * [Trello](trello.com) lets you create boards that contain lists that contain cards. These boards can be shared with other Trello users. Cards have titles, descriptions, a message log for activities, checklists, due dates, labels, links, attachments and be assigned to other Trello users.
 Read more at http://www.andrewconnell.com/blog/project-task-management-using-trello-for-kanban-boards#6xIVHkfFaC2PfdHC.99
