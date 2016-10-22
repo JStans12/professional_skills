@@ -17,44 +17,20 @@ Module One's focus is on the Discover/Awareness piece of the Strengths Developme
    
   **Facilitation:** By end of week 1
 
-* **[Verifying My Signature Themes]**
-   
-  **Facilitation:** After taking the assessment and before first 1-on-1 with the Community Affairs Manager
-
 * **[Exploring My Signature Themes]**
   
   **Facilitation:** During 1-on-1s with the Community Affairs Manager
 
 * **[The Challenge of Affirming My Strengths](https://github.com/turingschool/professional_skills/blob/master/strengths_finder/challenge-of-affirming-my-strengths.md)**
    
-  **Facilitation:** Small Groups during week 5 or 6
-
-### Module One Deliverable:
-
-* Statements on how to overcome challenges for each strength
-* Goals for next module on how to use strengths
-
-
 ## Module Two Activities
 
-* **[Group Dynamics]**
-
-### Module Two Deliverable:
-
-* 
+* **[Complementary Partners, Group Dynamics, & Your Strengths](https://github.com/turingschool/professional_skills/blob/master/strengths_finder/complementary_partners.md)**
 
 ## Module Three Activities
 
-* **[Complementary Partners]**
-
-### Module Three Deliverable:
-
-* 
+* **[Barrier Labels]**
 
 ## Module Four Activities
 
-* **[Moving Beyond Barrier Labels]**
-
-### Module Four Deliverable:
-
-* 
+* **[One Key Question]**
