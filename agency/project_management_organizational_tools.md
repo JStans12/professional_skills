@@ -19,7 +19,7 @@ Read more at http://www.andrewconnell.com/blog/project-task-management-using-tre
 ![Trello doc](https://github.com/turingschool/professional_skills/blob/master/images/Trello.png)
 
 * [Waffle.io](waffle.io): 
-![Waffle doc](images/Waffle.io.png)
+![Waffle doc](https://github.com/turingschool/professional_skills/blob/master/images/Waffle.io.png)
 
 * [Wunderlist](https://www.wunderlist.com): This is a straightforward app for creating to-do lists and setting reminders. You can also collaborate with others on shared lists. 
 ![Wunderlist](images/Wunderlist.jpg)
