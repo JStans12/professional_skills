@@ -25,4 +25,4 @@ Read more at http://www.andrewconnell.com/blog/project-task-management-using-tre
 ![Wunderlist](images/Wunderlist.jpg)
 
 * [Workflowy](https://workflowy.com): 
-![Workflowy doc](images/Workflowy.png)
+![Workflowy doc](https://github.com/turingschool/professional_skills/blob/master/images/Workflowy.png)
