@@ -18,4 +18,6 @@ The agency mindset is about taking initiative...
 
 ## Grit
 
+* [Combatting Impostor Syndrome](https://github.com/turingschool/professional_skills/blob/master/extensions_and_resources/impostor_syndrome.md)
+
 ## Growth
