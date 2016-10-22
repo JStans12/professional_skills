@@ -1,7 +1,11 @@
+# Module Three Professional Development
 
-# Creativity & Innovation: Building Habits & Frameworks
+Module Three focuses on:
 
-## Adapted from [Disciplined Dreaming by Josh Linkner](https://www.amazon.com/Disciplined-Dreaming-Proven-Breakthrough-Creativity/dp/1611203074)
+
+
+
+## Creativity & Innovation: Building Habits & Frameworks: This lesson is a sprint through the [Disciplined Dreaming framework by Josh Linkner](https://www.amazon.com/Disciplined-Dreaming-Proven-Breakthrough-Creativity/dp/1611203074)
 
 Linker's suggested framework for driving creativity in your everyday life and in your teams and organizations follows these 5 phases:
 
@@ -29,7 +33,7 @@ Linker's suggested framework for driving creativity in your everyday life and in
 See more: [Overview of Disciplined Dreaming Framework](files/DisciplinedDreamingSlides.pdf) from LinkedIn Slideshare
 
 
-## Resources:
+## Other Resources:
 * [TED Talk: Adam Grant, The Surprising Habits of Original Thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers)
 * [TED Talk: Elizabeth Gilbert, Your Elusive Creative Genius](https://www.ted.com/talks/elizabeth_gilbert_on_genius)
 * [Article: Fear is Boring, and Other Tips for Living a Creative Life by Elizabeth Gilbert](http://ideas.ted.com/fear-is-boring-and-other-tips-for-living-a-creative-life/)
