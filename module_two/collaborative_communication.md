@@ -2,7 +2,7 @@
 
 This session follows the BEE M2 project management lesson and precedes the Rush Hour project kickoff. 
 
-##Pre-Reading: 
+##Pre-Reading from *How to Win Friends & Influence People in the Digital Age*: 
 * [Chapter 4: Ask Questions Instead of Giving Direct Orders from How to Win Friends and Influence People in the Digital Age](https://github.com/turingschool/professional_skills/blob/master/files/Chapter%204%20Ask%20Questions%20Instead%20of%20Giving%20Direct%20Orders.pdf)
 * [Chapter 5: Mitigate Fault from How to Win Friends and Influence People in the Digital Age](https://github.com/turingschool/professional_skills/blob/master/files/Chapter%205%20Mitigate%20Fault.pdf)
 
