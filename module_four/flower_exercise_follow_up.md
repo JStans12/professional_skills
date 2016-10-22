@@ -1,6 +1,6 @@
 #Flower Exercise Follow-Up: Overcoming Job-Hunting Impostor’s Syndrome 
 
-[Slides for this lesson]()
+[Slides for this lesson](https://github.com/turingschool/professional_skills/blob/master/files/m4_flower_exercise_follow_up.pdf)
 
 ###Objectives
 * Identify your top 3 priorities in your first dev job.
