@@ -1,6 +1,6 @@
 ##The Creativity Brief - Lite
 
-When working on a solo project or a side project, try this Creativity Brief to start your brainstorming and organize your ideas in order to define the problem you want to solve and how you will do it. 
+When working on a solo project or a side project, try this condensed version of the Creativity Brief adapated from the Disciplined Dreaming framework to start your brainstorming and organize your ideas in order to define the problem you want to solve and how you will do it. 
 
 Project Name:
 
