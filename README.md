@@ -46,7 +46,7 @@ Professional Development is divided into 3 areas in Turing's curriculum:
 ## Breakdown:
 ## Module One:
 
-### <a name="personal-branding-1"></a>[Personal Branding Part I](https://github.com/turingschool/professional_skills/blob/master/personal_branding_p1.md) (led by Employment Coordinator)
+### <a name="personal-branding-1"></a>[Personal Branding Part I](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md) (led by Employment Coordinator)
 Learning how to tell your story based on the channel you’re using to communicate is important for successfully conveying how you’ll contribute to a team and the tech community. Think about how you’d like to contribute your prior experience and career to the tech community. How would you like to use your skills as a software developer? In this workshop we’ll talk through how the resume, LinkedIn, Twitter, and Github all contribute to telling your story and will support your job search. 
 #### Deliverables:
 At the end of this workshop you’ll have a resume specific for the tech industry, LinkedIn profile, Twitter account, and GitHub profile. 
