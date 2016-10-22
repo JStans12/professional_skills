@@ -47,7 +47,7 @@ All 7 aspects are important for your job search; Why?
 * This picture is the most complete of you and defining these aspects will lead you to your dream job
 
 ###Tools
-Complete [these worksheets](https://github.com/turingschool/professional_skills/blob/master/files/flower-exercise-worksheets.pdf) to fulfill the brainstorming stages of the Flower Exercise
+Complete [these worksheets](https://docs.google.com/document/d/1pLe95AA3y8rxnU-MDnyAVeoqWCxE9__KMDhmPgcd_7c/edit?usp=sharing) to fulfill the brainstorming stages of the Flower Exercise
 
 * Petal #1: Favorite Knowledges And/Or Fields of Interest
 	* Goal: Summarize everything you know; Must have: knowledge from past experiences; Bonus: What you would like to learn
