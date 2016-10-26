@@ -111,16 +111,16 @@ Focus on these questions:
 * How do you determine which ones to back and which ones to toss?
 * How do you define success and measure the value you’ve created?
 
-**Use these methods to pick your ideas:**
+**Use these methods to decide on your idea(s):**
 
-Pick Your Ideas:
+Pick Your Idea(s):
 
 * Assign your ideas value:
 	* Which means the most to you? Does it align with your personal passions and values?
 	* Which idea excites you the most?
 	* Which fits into the scope of a project timeline?
 
-Test your Selections:
+Test your Selection(s):
 
 * Envision your MVP -- sketch it out! What would it be able to do? What would it look like?
 
