@@ -147,3 +147,71 @@ As a follow-up to the Flower Exercise session from Module 3, we’ll discuss how
 * LinkedIn summary (2-3 paragraphs)
 * 3 sentence (resume objective/summary) to 1 paragraph 
 * overview (Turing.io profile)
+
+
+<table>
+  <tr>
+    <th>Module</th>
+    <th>Competencies</th>
+    <th>Session Names</th>
+  </tr>
+  <tr>
+    <td>Module One</td>
+    <td>
+      <ul>
+        <li>Paired programming</li>
+        <li>Strategies for managing stress</li>
+        <li>Comfort with being uncomfortable</li>
+        <li>Self-efficacy</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Strengths Assessment</li>
+        <li>Learning Difficult Things</li>
+        <li>Resilience</li>
+        <li>Vulnerability</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Teamwork</td>
+    <td>
+      <ul>
+        <li>Work with diverse set of personality and communication styles</li>
+        <li>Developing empathy for people who are different</li>
+        <li>Developing tactics to deal with conflict</li>
+        <li>Developing courage to use tactics to deal with conflict</li>
+        <li>Managing and participating in team continuous improvement</li>
+      </ul> 
+    </td>
+    <td>
+      <ul>
+        <li>Feedback and Difficult Conversations</li>
+        <li>Communication (identifying different styles, gender and micro-aggression subtext)</li>
+        <li>Effective retrospectives</li>
+        <li>Agile team management (Agile and Kanban)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Community</td>
+    <td>
+      <ul>
+        <li>Communicating a contrary opinion</li>
+        <li>Holding space for controversial conversations</li>
+        <li>Applying self-awareness and adapting to community needs</li>
+        <li>Demonstrating leadership in your ability to facilitate difficult conversations</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Gender and Affirmative Action</li>
+        <li>Income Inequality</li>
+        <li>Tragedy of the Commons: Voting, Sustainability, Cleaning</li>
+        <li>GearUp and Social Justice Agenda</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
