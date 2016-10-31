@@ -212,6 +212,16 @@ As a follow-up to the Flower Exercise session from Module 3, we’ll discuss how
         <li>GearUp and Social Justice Agenda</li>
       </ul>
     </td>
+    <td>Community</td>
+    <td>
+      <ul>
+        <li>Communicating a contrary opinion</li>
+        <li>Holding space for controversial conversations</li>
+        <li>Applying self-awareness and adapting to community needs</li>
+        <li>Demonstrating leadership in your ability to facilitate difficult conversations</li>
+      </ul>
+    </td>
+    <td>
   </tr>
 </table>
 
