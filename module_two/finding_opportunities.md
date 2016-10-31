@@ -9,7 +9,7 @@
 
 Looking for jobs on sites like monster.com, Indeed, and other career listing sites can be discouraging and ineffective. Let’s talk about how to find a job without relying on your resume or job postings. 
 
-- Check out the [Finding New Opportunities's](https://github.com/turingschool/professional_skills/blob/master/files/finding-opportunities.pdf) and [Cold Outreach](https://github.com/turingschool/professional_skills/blob/master/files/Cold Outreach.pdf)slide deck for more research support.
+- Check out the [Finding New Opportunities's](https://github.com/turingschool/professional_skills/blob/master/files/finding-opportunities.pdf) and [Cold Outreach](https://github.com/turingschool/professional_skills/blob/master/files/Cold%20Outreach.pdf) slide deck for more research support.
 
 ## Objectives
 
