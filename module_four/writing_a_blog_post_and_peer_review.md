@@ -1,6 +1,6 @@
 #Scale Up: Writing a Blog Post & Peer Review
 
-[Slides for this lesson]()
+[Slides for this lesson](https://docs.google.com/presentation/d/1BtFtpS_OWhQp9AJbXc9woI5ql8sD-etxwnFc-4rixEI/edit?usp=sharing)
 
 
 ###Objectives:
@@ -100,11 +100,18 @@ Now that you have a template, let’s talk about language
 
 
 ###Seeing this in the real world
-Read through one of these blog posts:
+Check out posts from any of these blogs:
 
-* Code as Craft - Ety's Engineering Blog
-* 
-
+* [Google Developers Blog](https://developers.googleblog.com/)
+* [Code as Craft - Etsy's Engineering Blog](https://codeascraft.com/)
+* [Netflix Tech Blog](http://techblog.netflix.com/)
+* [Tesla Blog](https://www.tesla.com/blog)
+* [Coding Horror](https://blog.codinghorror.com/)
+* [Code Simplicity](http://www.codesimplicity.com/)
+* [Christos Pontikis](http://www.pontikis.net/)
+* [Julia Evans](http://jvns.ca/)
+* [David Walsh](https://davidwalsh.name/)
+* [Andy Hunt](http://andy.pragprog.com/)
 
 Think about:
 
@@ -135,12 +142,12 @@ Take notes!
 
 As you work on your post and complete revisions, here are some tools:
 
-* [Hemingway App]() -- Analyzes your sentence structures for readability and improvements
-* [Wordcounter.net]() -- In addition to counting your words, it also calculates reading time
+* [Hemingway App](http://www.hemingwayapp.com/) -- Analyzes your sentence structures for readability and improvements
+* [Wordcounter.net](https://wordcounter.net/) -- In addition to counting your words, it also calculates reading time
 
 **Peer Review Process:**
 
-* [Start draft on Medium]()
-* [Share with partners]()
-* [Notes section]()
+* [Start draft on Medium](https://help.medium.com/hc/en-us/articles/214874698-Drafts)
+* [Share with partners](https://help.medium.com/hc/en-us/articles/215564177-Share-a-draft)
+* [Notes section](https://help.medium.com/hc/en-us/articles/214035868)
 * Treat the revision process like the code review process -- utilize systems (pull requests) to communicate with your peers and improve your post before finalizing the draft! 
