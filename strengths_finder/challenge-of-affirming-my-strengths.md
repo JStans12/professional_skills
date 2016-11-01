@@ -33,6 +33,7 @@ Find the worksheets for the session [here](https://docs.google.com/document/d/1s
 Talking about and acknowledging our strengths can be challenging. These challenges require intentional thought and action to overcome. Otherwise, we can end up focusing on our weaknesses rather than building our natural strengths. This activity will focus on identifying a challenge that stems from a particular trait and describing the situation that you’ve experienced. Use the examples to get an idea.
 
 **Opening:**
+
 Do you ever question your strengths? What makes it hard for you to affirm your strengths? List whatever comes to mind. 
 
 How can we overcome these challenges?
