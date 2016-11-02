@@ -17,6 +17,5 @@ Building on your abilities to explain your strengths and aspirations in Personal
 In this session, we'll continue building competencies in pairing by discussing and creating a feedback loop. Giving and receiving feedback effectively is difficult -- emotions run high and it can be hard to process what's said. Discussing our possible triggers to feedback is the first step in raising awareness of these reactions when they're happening. Following that, we'll dive into the three types of feedback, when they're needed, and how to solicit them. We'll discuss a framework for how to successfully have a feedback conversation, culminating in an understanding of how to move forward with your personal improvement. 
 
 ### Personal Branding II
-Using the lessons learned of how you work best, this session ties all   Developing your own personal site
-
+Using the lessons learned of how you work best and how to communicate that with your teams, this session provides you with the tools to assess your personal branding collateral. You'll analyze how your story is received across different mediums, where it needs improvement, and how it can be tied together with your personal site. 
 
