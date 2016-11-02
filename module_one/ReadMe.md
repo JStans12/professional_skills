@@ -14,9 +14,9 @@ Who are you? How did you get here? Learning how to tell your story is important 
 Building on your abilities to explain your strengths and aspirations in Personal Branding, Learning to Pair provides you with tools to be successful in pair programming. At Turing, we emphasize pair and team programming as it is an industry norm. In this session, you'll learn how to communicate with each other and define your working relationships with pairs, discuss strategies for how to hold each other accountable to these expectations, and how to address broken expectations. Understanding how to successfully work in teams is crucial to being a successful developer. 
 
 ### Feedback I
-In this session, we'll continue building students' competencies in pairing by discussing and creating a feedback loop. Giving and receiving feedback effectively is difficult. We'll discuss the three different triggers that feedback can 
+In this session, we'll continue building competencies in pairing by discussing and creating a feedback loop. Giving and receiving feedback effectively is difficult -- emotions run high and it can be hard to process what's said. Discussing our possible triggers to feedback is the first step in raising awareness of these reactions when they're happening. Following that, we'll dive into the three types of feedback, when they're needed, and how to solicit them. We'll discuss a framework for how to successfully have a feedback conversation, culminating in an understanding of how to move forward with your personal improvement. 
 
 ### Personal Branding II
-
+Using the lessons learned of how you work best, this session ties all   Developing your own personal site
 
 
