@@ -12,3 +12,13 @@ Building on the competencies of successful teamwork and personal growth of Modul
 * [Networking]()
 
 ### Collaborative Communication
+
+### Finding Opportunities
+
+### Agiles Practices & Project Management
+
+### Feedback II
+
+### Cold Outreach
+
+### Networking
