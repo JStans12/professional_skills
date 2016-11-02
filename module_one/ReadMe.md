@@ -4,7 +4,7 @@ Professional development in Module One is focused on the fundamentals of buildin
 
 * [Personal Branding I](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p1.md)
 * [Learning to Pair](https://github.com/turingschool/professional_skills/blob/master/module_one/learning_to_pair.md) 
-* [Feedback I]()
+* [Feedback I](https://github.com/turingschool/professional_skills/blob/master/module_one/feedback_1.md)
 * [Personal Branding II](https://github.com/turingschool/professional_skills/blob/master/module_one/personal_branding_p2.md)
 
 ### Personal Branding I
