@@ -1,4 +1,4 @@
-# Module One
+# Professional Development in Module One
 
 ![Module One_Infographic](https://github.com/turingschool/professional_skills/blob/master/images/Module%20One_Infographic.png)
 
