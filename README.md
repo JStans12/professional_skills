@@ -1,6 +1,6 @@
 # Professional Skills Curriculum & Resources
 
-During your time at Turing School of Software and Design, you’ll be preparing for your first position as a software developer. In order to kick off a healthy and sustainable career as a software developer, it will be essential to learn how to talk about what you’ll contribute to a dev team, learn how to navigate your job search, and then land your first developer job. Throughout each module you’ll have workshops with the Community Affairs Manager, Employment Coordinator, as well as the Partnership Manager to effectively prepare for your career. 
+During your time at Turing School of Software and Design, you’ll be preparing for your first position as a software developer. In order to kick off a healthy and sustainable career in this field, it will be essential to learn how to talk about what you’ll contribute to a dev team, learn how to navigate your job search, and then land your first developer job. Throughout each module you’ll have workshops with the Community Affairs Manager, Employment Coordinator, and the Partnerships Manager to effectively prepare for your career. 
 
 Professional Development is divided into 3 areas in Turing's curriculum:
 * PROtocol Sessions, information listed below (Allison Reu Singer, Community Affairs Manager)
