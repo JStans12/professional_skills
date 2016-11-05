@@ -6,7 +6,7 @@ This module is all about application. Continue to dive into your own story -- wh
 
 * [Flower Exercise](https://github.com/turingschool/professional_skills/blob/master/module_three/flower_exercise.md)
 * [Job Search Strategies](https://github.com/turingschool/professional_skills/blob/master/module_three/job_search_strategies.md)
-* [Innovative Problem-Solving]()
+* [Innovative Problem-Solving](https://github.com/turingschool/professional_skills/blob/master/module_three/innovative_problem-solving.md)
 * [Interviewing]()
 
 ### Flower Exercise
