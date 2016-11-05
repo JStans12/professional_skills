@@ -12,7 +12,7 @@ Throughout each module, you’ll have workshops with the Community Affairs Manag
 * [Module Three](https://github.com/turingschool/professional_skills/tree/master/module_three)
 * [Module Four](https://github.com/turingschool/professional_skills/tree/master/module_four)
 * [Extensions & Resources]()
-* [StrengthsFinder (optional)]()
+* [StrengthsFinder (optional)](https://github.com/turingschool/professional_skills/tree/master/strengths_finder)
 
 ## Module Two:
 ### <a name="finding-job-opportunities"></a>[Finding Job Opportunities](https://github.com/turingschool/professional_skills/blob/master/finding_opportunities.md) (led by Employment Coordinator)
