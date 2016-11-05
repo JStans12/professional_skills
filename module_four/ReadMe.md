@@ -3,7 +3,7 @@
 ![Mod 4 Scope & Sequence](https://github.com/turingschool/professional_skills/blob/master/images/Mod%204%20Scope%20%26%20Sequence.png)
 
 * [Flower Exercise Follow-Up: Overcoming Job Search Impostor's Syndrome](https://github.com/turingschool/professional_skills/blob/master/module_four/flower_exercise_follow_up.md)
-* [Negotiations]()
+* [Negotiations](https://github.com/turingschool/professional_skills/blob/master/module_four/negotiations.md)
 * [Writing a Blog Post & Peer Review]()
 
 ### Overcoming Job Search Impostor's Syndrome
