@@ -4,7 +4,7 @@
 
 * [Flower Exercise Follow-Up: Overcoming Job Search Impostor's Syndrome](https://github.com/turingschool/professional_skills/blob/master/module_four/flower_exercise_follow_up.md)
 * [Negotiations](https://github.com/turingschool/professional_skills/blob/master/module_four/negotiations.md)
-* [Writing a Blog Post & Peer Review]()
+* [Writing a Blog Post & Peer Review](https://github.com/turingschool/professional_skills/blob/master/module_four/writing_a_blog_post_and_peer_review.md)
 
 ### Overcoming Job Search Impostor's Syndrome
 
