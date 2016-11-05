@@ -13,10 +13,3 @@ Throughout each module, you’ll have workshops with the Community Affairs Manag
 * [Module Four](https://github.com/turingschool/professional_skills/tree/master/module_four)
 * [Extensions & Resources](https://github.com/turingschool/professional_skills/tree/master/extensions_and_resources)
 * [StrengthsFinder (optional)](https://github.com/turingschool/professional_skills/tree/master/strengths_finder)
-
-
-## Module Four: 
-### <a name="negotiations"></a>[Negotiations](https://github.com/turingschool/professional_skills/blob/master/negotiations.md) (led by Partnership Manager)
-So few people negotiate comfortably or even try. Negotiation is an important part in growing your career. Let’s talk about how to negotiate with confidence and respect to ensure you’re appropriately advocating for your value.
-
-
