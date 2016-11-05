@@ -7,7 +7,7 @@ During your time at Turing School of Software and Design, you’ll prepare for y
 Throughout each module, you’ll have workshops with the Community Affairs Manager, Employment Coordinator, and the Partnerships Manager to address these ideas and prepare you for your new career. 
 
 ### Breakdown of Curriculum
-* [Module One]()
+* [Module One](https://github.com/turingschool/professional_skills/tree/master/module_one)
 * [Module Two]()
 * [Module Three]()
 * [Module Four]()
