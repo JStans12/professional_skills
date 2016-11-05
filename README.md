@@ -11,7 +11,7 @@ Throughout each module, you’ll have workshops with the Community Affairs Manag
 * [Module Two](https://github.com/turingschool/professional_skills/tree/master/module_two)
 * [Module Three](https://github.com/turingschool/professional_skills/tree/master/module_three)
 * [Module Four](https://github.com/turingschool/professional_skills/tree/master/module_four)
-* [Extensions & Resources]()
+* [Extensions & Resources](https://github.com/turingschool/professional_skills/tree/master/extensions_and_resources)
 * [StrengthsFinder (optional)](https://github.com/turingschool/professional_skills/tree/master/strengths_finder)
 
 ## Module Two:
