@@ -1,6 +1,6 @@
 # Module Two
 
-![Module Two](https://github.com/turingschool/professional_skills/blob/master/images/Module%20Two.png)
+![Mod 2 Scope & Sequence](https://github.com/turingschool/professional_skills/blob/master/images/Mod%202%20Scope%20%26%20Sequence.png)
 
 Building on the competencies of successful teamwork and personal growth of Module One, professional development in Module Two focuses on intentional communication. These sessions hone in on communicating well in software teams as well as communicating with potential employers and members of the technology community.
 
