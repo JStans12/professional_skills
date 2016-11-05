@@ -1,6 +1,6 @@
 #  Module One
 
-![Mod 1 Scope & Sequence](https://github.com/turingschool/professional_skills/blob/master/images/Mod%20One%20Scope%20%26%20Sequence.png)
+![Mod 1 Scope & Sequence](https://github.com/turingschool/professional_skills/blob/master/images/Mod%201%20Scope%20%26%20Sequence.png)
 
 Professional development in Module One is focused on the fundamentals of building a career as a developer. These foundations are set through four sessions:
 
