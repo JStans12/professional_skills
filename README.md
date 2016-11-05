@@ -1,4 +1,4 @@
-# Professional Development 
+# Turing School Professional Development 
 
 ![Scope & Sequence]()
 
