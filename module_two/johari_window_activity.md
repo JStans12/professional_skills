@@ -5,7 +5,7 @@
 
 Created by psychologists Joseph Luft and Harrington Ingham in 1955 (and named for them, combining the names Joe and Harry), the Johari Window is a technique used to help people better understand their relationship with themselves and others.
 
-PNG FILE HERE
+[Image!](https://github.com/turingschool/professional_skills/blob/master/images/Johari_Window.png)
 
 [Source](https://commons.wikimedia.org/wiki/File:Johari_Window.PNG)
 
