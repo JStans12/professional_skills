@@ -7,7 +7,7 @@ Building on the competencies of successful teamwork and personal growth of Modul
 * [Finding Opportunities](https://github.com/turingschool/professional_skills/blob/master/module_two/finding_opportunities.md)
 * [Collaborative Communication (BEE)](https://github.com/turingschool/professional_skills/blob/master/module_two/collaborative_communication.md)
 * [Agile Practices & Project Management (FEE)]()
-* [Feedback II]()
+* [Feedback II](https://github.com/turingschool/professional_skills/blob/master/module_two/feedback_ii.md)
 * [Cold Outreach]()
 * [Networking](https://github.com/turingschool/professional_skills/blob/master/module_two/networking.md)
 
