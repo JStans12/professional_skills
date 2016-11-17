@@ -65,7 +65,7 @@ And then go back through the feedback and pull out what might be *right* about i
 Allison will model this using feedback she's received.
 
 ###Independent Reflections
-**Activity #1:** Complete the [Johari Window activity]() using the adjectives you and your teammates identified for you ahead of time. 
+**Activity #1:** Complete the [Johari Window activity](https://github.com/turingschool/professional_skills/blob/master/module_two/johari_window_activity.md) using the adjectives you and your teammates identified for you ahead of time. 
 
 Analyze:
 
