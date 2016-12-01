@@ -15,9 +15,6 @@ This session follows the BEE M2 project management lesson and precedes the Rush 
 * Success in M2: M2 is where you hone your teamwork skills. Understanding and using project management best practices is essential to becoming an effective team member. 
 * Success in career: Your technical skills will help you get a job. Your project management and communication skills will help you keep a job. Demonstrating that you can successfully work with teams and learn from mistakes in a productive way will be a huge asset to any organization
 
-##Session Follow-Up:
-Allison will meet with small groups during Week 4 to discuss and analyze feedback from Rush Hour in a productive way and prepare for success in Little Shop
-
 ##Deliverable: 
 2-paragraph reflection in your portfolio on:
 
