@@ -14,7 +14,7 @@
 
 2-paragraph reflection in your portfolio on:
 
-1. Details on project management strategies you used in your projects (Rush Hour and/or Little Shop); What went well? What didn’t go well?
+1. Details on project management strategies you used in your projects; What went well? What didn’t go well?
 2. How you incorporated feedback from your team members and what you learned about yourself in the process
 
 ###Opening
