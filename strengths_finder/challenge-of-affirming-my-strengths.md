@@ -1,4 +1,10 @@
-#StrengthsFinder: Module One 
+---
+title: StrengthsFinder - Module One
+subheading: Small Groups Follow-Up
+layout: page
+---
+
+#StrengthsFinder: Module One
 ##Small Groups Follow-Up
 
 
@@ -11,7 +17,7 @@
 
 **Time in Module:** Week 5 or 6
 
-**Time:** 40 mins. 
+**Time:** 40 mins.
 
 **Size:** Groups of 4-6
 
@@ -34,7 +40,7 @@ Talking about and acknowledging our strengths can be challenging. These challeng
 
 **Opening:**
 
-Do you ever question your strengths? What makes it hard for you to affirm your strengths? List whatever comes to mind. 
+Do you ever question your strengths? What makes it hard for you to affirm your strengths? List whatever comes to mind.
 
 How can we overcome these challenges?
 
@@ -48,7 +54,7 @@ Example Strength: Adaptability
 
 * What does it mean to be adaptable?
 
-How could one be blind to how Adaptability is a strength? 
+How could one be blind to how Adaptability is a strength?
 
 * Example Affirmation: “I have always been adaptable and never considered it to be special. I took for granted my ability to move from one task to another with ease, but now I see how it really benefits me to be able to multi-task and change topics quickly in this environment.”
 
@@ -59,7 +65,7 @@ Example Difficulty #2: “I’m afraid my strengths could hinder me.”
 
 Example Strength: Strategic
 
-* What does it mean to be Strategic? 
+* What does it mean to be Strategic?
 
 How can I affirm this strength instead of seeing it as a hindrance?
 
@@ -71,7 +77,7 @@ How can I affirm this strength instead of seeing it as a hindrance?
 You are grouped according to a shared strength with the rest of the small group. Discuss as partners and/or whole group how one of the challenges might apply to that strength (or come up with one on your own) and how you will reaffirm it. Use the worksheet linked above.
 
 
-**Independent Activity:** 
+**Independent Activity:**
 Fill out the rest of the worksheet with your responses to the following challenges:
 
 * Challenge: “My strengths threaten others.”
@@ -80,7 +86,7 @@ Fill out the rest of the worksheet with your responses to the following challeng
 * Challenge: “I don’t see how my strengths could help me reach my goals.”
 * Challenge: “I have trouble seeing these strengths in the day-to-day.”
 * Come up with your own challenges if these don't feel relevant to you.
-* Decide on how you will use your strengths next module. 
+* Decide on how you will use your strengths next module.
 
 **Debrief:**
 

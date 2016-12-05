@@ -1,21 +1,29 @@
-#StrengthsFinder Module 2: Complementary Partners, Group Dynamics, & Your Strengths
+---
+title: StrengthsFinder Module 2
+subheading: Complementary Partners, Group Dynamics, & Your Strengths
+layout: page
+---
 
-###Objectives:
+### Objectives:
+
 * Recognize strengths of others
-* Identify how others’ strengths can complement your own 
+* Identify how others’ strengths can complement your own
 * Strategize how to discuss complementary strengths with others you work with
 
-###Deliverable:
+### Deliverable:
+
 * Descriptions of complementary partners for each of your 5 strengths
 
-###Write & Share:
+### Write & Share:
+
 * Reflect on group/pair projects so far:
 	* How have your strengths influenced your work in groups?
 	* How did you see others’ strengths displayed?
 	* Were there strengths you wish had been represented in the group?
 	* Have there been any difficulties in bringing out your strengths?
 
-###Partnerships:
+### Partnerships:
+
 Partnerships form all around us every day -- you will continue to work with cohort members, posse members, mentors, and others in the community. How can you be intentional in making those partnerships go well?
 
 Think about how others’ strengths affect yours. How can they...
@@ -29,7 +37,8 @@ Think about how others’ strengths affect yours. How can they...
 
 In teams, we can achieve more than on our own.
 
-###Group Discussion: 
+### Group Discussion:
+
 What would your complementary partner look like?
 In your groups, discuss the strength you all have in common, discuss how a partner could:
 
@@ -37,18 +46,13 @@ In your groups, discuss the strength you all have in common, discuss how a partn
 * “Take over” where your strength leaves off
 * “Enhance” what you possess
 
-Use the [list of all StrengthsFinder strengths](https://github.com/turingschool/professional_skills/blob/master/files/BriefDescriptionsOfThemes.pdf) descriptions to help you. 
+Use the [list of all StrengthsFinder strengths](../files/BriefDescriptionsOfThemes.pdf) descriptions to help you.
 
 * Describe the strengths of your imagined partner(s)
-* How can you draw these strengths from others? 
-* What does a conversation around complementary strengths look like? 
+* How can you draw these strengths from others?
+* What does a conversation around complementary strengths look like?
 * What norms can you create to discuss complementary strengths in teams?
 
-###Individual Reflection:
-Think about your other strengths and what a complementary partner would look like for you. Describe that complementary partner and how you can discuss ways to use each other's strengths. What next steps will you take to make this partnership successful? 
+### Individual Reflection:
 
-
-
-
-
-
+Think about your other strengths and what a complementary partner would look like for you. Describe that complementary partner and how you can discuss ways to use each other's strengths. What next steps will you take to make this partnership successful?
