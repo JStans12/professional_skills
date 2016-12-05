@@ -1,15 +1,38 @@
-# Turing School Professional Development 
 
-![Scope & Sequence](https://github.com/turingschool/professional_skills/blob/master/images/PD%20Scope%20%26%20Sequence.png)
 
-During your time at Turing School of Software and Design, you’ll prepare for your first position as a software developer. Our professional development curriculum will provide you with the tools to establish a healthy and sustainable career in this field. We aim to cultivate graduates who can confidently express who they are and what they can contribute to the tech community. They are able to work collaboratively in teams as well as build off of their own ideas. They easily adapt to different situations and maintain a growth mindset throughout challenges.  
+## Some handy tips for editing/creating content
 
-Throughout each module, you’ll have workshops with the Community Affairs Manager, Employment Coordinator, and the Partnerships Manager to address these ideas and prepare you for your new career. 
+### Headers in your markdown files
 
-### Breakdown of Curriculum
-* [Module One](https://github.com/turingschool/professional_skills/tree/master/module_one)
-* [Module Two](https://github.com/turingschool/professional_skills/tree/master/module_two)
-* [Module Three](https://github.com/turingschool/professional_skills/tree/master/module_three)
-* [Module Four](https://github.com/turingschool/professional_skills/tree/master/module_four)
-* [Extensions & Resources](https://github.com/turingschool/professional_skills/tree/master/extensions_and_resources)
-* [StrengthsFinder (optional)](https://github.com/turingschool/professional_skills/tree/master/strengths_finder)
+Put something like this at the top of all your markdown files:
+
+```yaml
+---
+title: Name of lesson
+subheading: lesson is about stuff
+layout: page
+---
+```
+
+- `subheading` is optional
+- `layout` is basically always going to be `page`
+
+### Index.md instead of Readme.md
+
+The system we're using to translate from github to backend.turing.io uses index files instead of readme files. Where you would have created a file called `readme.md`, just use `index.md` instead. This also means that when viewing a folder, you won't automatically see the Readme file, and you'll have to click on `index.md` to see the index of that folder.
+
+### Links and Paths
+
+When linking to a markdown file, drop the `.md` in your link. Instead of linking to `learning_to_pair.md`, just use `learning_to_pair`. Other files, like PDFs and PNGs, keep the original extension.
+
+#### Absolute vs Relative paths
+
+Since you're editing on github, and viewing at backend.turing.io, you'll probably want to use *relative* links instead of *absolute* links. I found a primer on the difference. It's in the context of HTML instead of Markdown, but should basically explain the concept: http://www.boogiejack.com/server_paths.html
+
+### Your markdown will behave differently
+
+Github uses a slightly different system for translating from Markdown than the engine we use for backend.turing.io. Here's some things that I had to change to get things to look right on the site, even if it looks right on Github.
+
+- Put a space after your `#`'s in headers
+- Put a blank line between your headers and any content below
+- Replace any `|` with `\|` unless you're really trying to do a table
